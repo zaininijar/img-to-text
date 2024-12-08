@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Soal UTS | SMKN 1 Rao Selatan</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
+    ></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "sans-serif"],
+            },
+          },
+        },
+      };
+    </script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-gray-100 text-gray-800 font-sans">
+    <div class="container mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold text-center mb-8">
+        Soal UTS | SMKN 1 Rao Selatan
+      </h1>
+      <div
+        id="categories-container"
+        x-data="{ categories: [] }"
+        x-init="fetch('questions.json').then(response => response.json()).then(data => {
+            const groupedData = data.reduce((acc, question) => {
+                if (!acc[question.category]) {
+                    acc[question.category] = [];
+                }
+                acc[question.category].push(question);
+                return acc;
+            }, {});
+            categories = Object.entries(groupedData).map(([category, questions], index) => ({
+                name: category,
+                questions: questions,
+                isOpen: false,
+                id: `category-${index}`
+            }));
+        })"
+      >
+        <template x-for="category in categories" :key="category.id">
+          <div class="mb-4 bg-white rounded-lg shadow-md overflow-hidden">
+            <h2
+              @click="category.isOpen = !category.isOpen"
+              class="flex justify-between items-center p-4 bg-gray-50 text-lg font-semibold cursor-pointer hover:bg-gray-100 transition-colors duration-200"
+              :aria-expanded="category.isOpen"
+              :aria-controls="category.id"
+            >
+              <span x-text="category.name"></span>
+              <svg
+                class="w-5 h-5 transition-transform duration-200"
+                :class="{ 'rotate-180': category.isOpen }"
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                  clip-rule="evenodd"
+                />
+              </svg>
+            </h2>
+            <div
+              x-show="category.isOpen"
+              x-transition:enter="transition ease-out duration-200"
+              x-transition:enter-start="opacity-0 transform -translate-y-2"
+              x-transition:enter-end="opacity-100 transform translate-y-0"
+              x-transition:leave="transition ease-in duration-200"
+              x-transition:leave-start="opacity-100 transform translate-y-0"
+              x-transition:leave-end="opacity-0 transform -translate-y-2"
+              :id="category.id"
+            >
+              <template
+                x-for="(question, qIndex) in category.questions"
+                :key="qIndex"
+              >
+                <div class="p-4 border-t border-gray-200">
+                  <img
+                    x-show="question.picture"
+                    x-bind:src="question.picture"
+                    alt="Gambar"
+                    class="rounded-lg shadow-md mb-4"
+                  />
+                  <h1
+                    class="font-medium mb-2"
+                    x-text="qIndex + 1 + '. ' + question.question"
+                  ></h1>
+                  <ul class="space-y-2">
+                    <template
+                      x-for="(isCorrect, option) in question.options"
+                      :key="option"
+                    >
+                      <li
+                        class="p-2 rounded-md text-sm"
+                        :class="{
+                                                'bg-green-100 text-green-800': isCorrect,
+                                                'bg-red-100 text-red-800': !isCorrect
+                                            }"
+                        x-text="option"
+                      ></li>
+                    </template>
+                  </ul>
+                </div>
+              </template>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </body>
+</html>

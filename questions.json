@@ -1,0 +1,1662 @@
+[
+    {
+        "category": "KK RPL",
+        "question": "Salah satu tipe data bilangan dimana bilangan tersebut tidak memiliki titik desimal atau pecahan bilangan disebut tipe data..",
+        "picture": null,
+        "options": {
+            "boolean": false,
+            "character": false,
+            "float": false,
+            "string": false,
+            "integer": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Aplikasi pengembangan mobile yang memiliki ciri adanya tambahan 'm' pada awal URL disebut dengan.",
+        "picture": null,
+        "options": {
+            "Aplikasi native": false,
+            "Virtual aplikasi": false,
+            "Aplikasi web mobile": true,
+            "Aplikasi desktop": false,
+            "Aplikasi hybrid": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Pakaian adat bundo kanduang terdiri dari....",
+        "picture": null,
+        "options": {
+            "Kain sarung": false,
+            "Semua jawaban benar": true,
+            "Baju kurung basiba": false,
+            "Kain selempang": false,
+            "Tengkuluk": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Cetak tebal ditunjuk dengan icon ...",
+        "picture": null,
+        "options": {
+            "B": true,
+            "E": false,
+            "U": false,
+            "><": false,
+            "I": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Ikon Margins dalam Microsoft Word digunakan untuk ...",
+        "picture": null,
+        "options": {
+            "mengatur rata kiri": false,
+            "mengatur jenis kertas": false,
+            "mengatur perataan teks": false,
+            "mengatur batas-batas pengetikan": true,
+            "mengatur halaman": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Apa makna dari sarawa jao (celana batik jao)....",
+        "picture": null,
+        "options": {
+            "Laki laki Minangkabau tau di nan ampek": true,
+            "Berhati sempit": false,
+            "Berhati lapang": false,
+            "Suka mencela": false,
+            "Sopan santun": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Aplikasi hybrid adalah aplikasi yang pengembangannya menggabungkan antara aplikasi native dan aplikasi web mobile. Berikut ini yang bukan kelebihan aplikasi hybrid ialah ....",
+        "picture": null,
+        "options": {
+            "Sebagian besar aset yang dibutuhkan oleh halaman web disimpan dalam paket aplikasi pada perangkat, bukan pada server": false,
+            "Memiliki dukungan multi platform yang tidak dimiliki native": false,
+            "Memerlukan bantuan framework pengembangan aplikasi mobile berbasis web": false,
+            "Memungkinkan pembuatan aplikasi secara online maupun offline": false,
+            "Proses pengembangannya jauh lebih mudah dibandingkan aplikasi native": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "ERD membantu melakukan analisis dan perancangan basis data dengan alasan....",
+        "picture": null,
+        "options": {
+            "ERD mudah dipahami bagi pengguna awam": false,
+            "Dapat lebih mudah dalam mendesain basis data": false,
+            "Menggunakan simbol yang mudah dipahami oleh pengguna": false,
+            "Menghemat waktu perancangan basis data": false,
+            "ERD dapat menunjukkan bermacam-macam data yang dibutuhkan dan relasi antardata di dalamnya": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Macam macam rangkiang di Minangkabau yaitu....",
+        "picture": null,
+        "options": {
+            "Rangkiang kaciak": false,
+            "Rangkiang sitangguang lapa": false,
+            "Rangkiang sibayai bayau": false,
+            "Semua jawaban benar": true,
+            "Rangkiang sitinjau lauik": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Apabila ada 2 buah operand yang bernilai 1 dan 0 dan diberikan operator AND (&), maka akan memiliki hasil...",
+        "picture": null,
+        "options": {
+            "01": false,
+            "00": false,
+            "11": false,
+            "0,1": false,
+            "10": true
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Program aplikasi yang digunakan untuk pengolahan kata seperti membuat makalah, surat, skripsi di...",
+        "picture": null,
+        "options": {
+            "Microsoft Excel": false,
+            "WordArt": false,
+            "Microsoft Word": true,
+            "WordPad": false,
+            "Microsoft PowerPoint": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah dari keyboard untuk melakukan cetak miring pada tulisan di Microsoft Word adalah.....",
+        "picture": null,
+        "options": {
+            "Ctrl + C": false,
+            "Ctrl + U": false,
+            "Ctrl + I": true,
+            "Ctrl + A": false,
+            "Ctrl + X": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Abstraksi dari sesuatu yang mewakili dunia nyata seperti benda, manusia, satuan organisasi, tempat kejadian, struktur, status atau hal-hal yang bersifat abstrak dinamakan...",
+        "picture": null,
+        "options": {
+            "Objek": true,
+            "Atribut": false,
+            "Method": false,
+            "Kelas": false,
+            "Inheritance": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Dari jawaban dibawah ini manakah yang benar Daerah yang termasuk darek (luhak nan tigo) adalah....",
+        "picture": null,
+        "options": {
+            "Negeri 9": false,
+            "Luhak tanah datar": true,
+            "Pasaman": false,
+            "Tiku Pariaman": false,
+            "Rantau Kampar": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Setiap keputusan harus ditegakkan dengan wibawa. Pernyataan diatas merupakan lambang dari....",
+        "picture": null,
+        "options": {
+            "Kain sandang": false,
+            "Sesamping": false,
+            "Tongkat": true,
+            "Keris": false,
+            "Baju hitam longgar": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Untuk tulisan 'SYAKILA' tag yang digunakan dalam format teks tersebut adalah?",
+        "picture": null,
+        "options": {
+            "<i>": false,
+            "<u>": false,
+            "<b>": true,
+            "<ul>": false,
+            "<title>": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Kegunaan dari tombol Caps Lock yaitu pada pengeditan dokumen adalah...",
+        "picture": null,
+        "options": {
+            "Mengunci kalimat menjadi besar": false,
+            "Mengunci paragraph menjadi besar": false,
+            "Semua Benar": false,
+            "Mengunci huruf menjadi besar": true,
+            "Mengunci kata menjadi besar": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Saat ini banyak digunakan perangkat mobile dengan sistem operasi Android. Berikut ini yang bukan merupakan layer software Android adalah...",
+        "picture": null,
+        "options": {
+            "Android Runtime": false,
+            "Libraries": false,
+            "Unix kernel": true,
+            "Applications": false,
+            "Application Framework": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Format teks yang digunakan untuk heading adalah?",
+        "picture": null,
+        "options": {
+            "<middle>": false,
+            "<head>": false,
+            "<right>": false,
+            "<title>": false,
+            "<h>": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Jika diketahui atribut dari entitas pasien, yaitu kode_pasien, nama_pasien, jenis_kelamin, umur, dan alamat. Yang merupakan atribut kunci primer adalah...",
+        "picture": null,
+        "options": {
+            "nama_pasien": false,
+            "umur": false,
+            "alamat": false,
+            "jenis_kelamin": false,
+            "kode_pasien": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Tempat duduk pengantin yang dihiasi, sebagai simbol sahnya hubungan antara laki-laki dengan perempuan dalam ikatan suami istri (keluarga), karena sesuai dengan syariat agama islam. Pernyataan diatas merupakan pengertian dari...",
+        "picture": null,
+        "options": {
+            "Ukiran": false,
+            "Rumah gadang": false,
+            "Marawa": false,
+            "Pakaian": false,
+            "Pelaminan": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Tirai kolom adalah...",
+        "picture": null,
+        "options": {
+            "Tempat duduk": false,
+            "Kain yang berhias di taburi manik-manik dan kaca": true,
+            "penutup loteng (langit-langit)": false,
+            "Penutup lantai": false,
+            "Kain penutup dinding": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Untuk tulisan 'RIO' tag yang digunakan dalam format teks tersebut adalah?",
+        "picture": null,
+        "options": {
+            "<b>": true,
+            "<i>": false,
+            "<ul>": false,
+            "<u>": false,
+            "<title>": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Makna dari ukiran motif itiak pulang patang yaitu...",
+        "picture": null,
+        "options": {
+            "Semua jawaban benar": false,
+            "Itiak pulang ke rumah": false,
+            "Itiak pulang sore": false,
+            "Perkumpulan masyarakat": false,
+            "Kesejahteraan masyarakat": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Simbol berasal dari bahasa yunani yaitu...",
+        "picture": null,
+        "options": {
+            "Symbolly": false,
+            "Sambally": false,
+            "Symballo": true,
+            "Objek": false,
+            "Jenis": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Latihan yang berkesinambungan yang diselingi waktu istirahat disebut latihan...",
+        "picture": null,
+        "options": {
+            "Interval": true,
+            "Lari": false,
+            "Jalan": false,
+            "Daya tahan": false,
+            "Latihan sirkuit": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Faktor yang dilaksanakan bangsa barat untuk melanjutkan bisnisnya adalah...",
+        "picture": null,
+        "options": {
+            "Perdagangan Kapitalis": true,
+            "Romawi Timur": false,
+            "Sistem Perdagangan": false,
+            "Daerah jajahan": false,
+            "Semangat Glory": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Tombol yang digunakan untuk membatalkan perintah undo disebut tombol...",
+        "picture": null,
+        "options": {
+            "Paste": false,
+            "Redo": true,
+            "Copy": false,
+            "Cut": false,
+            "Undo": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Untuk mengatur tulisan adalah...",
+        "picture": null,
+        "options": {
+            "Insert-font": false,
+            "File-new": false,
+            "Format-font": true,
+            "Format-tulisan": false,
+            "Edit-open": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Bagaimana menyimpan file yang sedang dikerjakan?",
+        "picture": null,
+        "options": {
+            "Ctrl+ J": false,
+            "Ctrl+ N": false,
+            "Ctrl + E": false,
+            "Ctrl + S": true,
+            "Ctrl + 0": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Naskah yang terletak pada bagian bawah atau juga disebut catatan kaki disebut...",
+        "picture": null,
+        "options": {
+            "Footer": true,
+            "Page Number": false,
+            "Header": false,
+            "Symbol": false,
+            "Drop Cap": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Pelayaran Hongi adalah pelayaran yang dilakukan oleh VOC, dengan menggunakan senjata lengkap untuk mengawal perjalanan monopoli perdagangan dagang tujuan...",
+        "picture": null,
+        "options": {
+            "Menangkap petani yang menjual hasil tani": false,
+            "Mengamankan monopoli perdagangan": true,
+            "Menangkap pedagang gelap atau penyeludup": false,
+            "Mempertahankan kekuasaan politik": false,
+            "Menghukum petani": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Komposisi dan registrasi pemain bola voli adalah....",
+        "picture": null,
+        "options": {
+            "7 pemain": false,
+            "12 pemain": false,
+            "13 pemain": false,
+            "9 pemain": false,
+            "E pemain": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Arti - Lambang dari (marawa) bendera warna kuning yaitu....",
+        "picture": null,
+        "options": {
+            "Kehormatan - Luhak Tanah Datar": false,
+            "Keagamaan": false,
+            "Penghulu": false,
+            "Keberanian - Luhak Lima Puluh Koto": false,
+            "Kepemimpinan - Luhak Agam": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Baju kurung basiba memiliki ciri salah satunya yaitu....",
+        "picture": null,
+        "options": {
+            "Tidak ada jahitan pada bagian bahu": true,
+            "Mementingkan aspek kemegahan": false,
+            "Sesuai panduan adat": false,
+            "Sesuai dengan acara yang diadakan": false,
+            "Tidak menyerupai pakaian laki-laki": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Pemerintahan Belanda membuat Hak Istimewa salah satunya adalah…",
+        "picture": null,
+        "options": {
+            "Menjalankan kekuasaan kehakiman": false,
+            "Transfer Ilmu Pengetahuan": false,
+            "Petunjuk jalan Spanyol dan Asia": false,
+            "Peatbus Plancius ada ahli peta": false,
+            "Membantu pemerintahan melawan penduduk": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Fungsi dari rangkiang yaitu....",
+        "picture": null,
+        "options": {
+            "Menyimpan buku": false,
+            "Menyimpan padi milik kaum": true,
+            "Menyimpan barang": false,
+            "Menyimpan harta": false,
+            "Menyimpan emas": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Asal usul sejarah pelaminan yaitu....",
+        "picture": null,
+        "options": {
+            "Seorang remaja yang kabur dari rumah untuk menikahi perempuan yang dia cintai": false,
+            "Bundo kanduang Seorang raja perempuan yang dipinang oleh 7 orang raja mancanegara": true,
+            "Seorang laki-laki meminang perempuan yang dicintainya": false,
+            "Seorang perempuan meminang laki-laki yang dicintainya": false,
+            "Seorang raja yang berkhianat": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Sistem tanam paksa sebetulnya merupakan kelanjutan dari preangerstelsel yang di tanam utama adalah..",
+        "picture": null,
+        "options": {
+            "Bawang": false,
+            "Bersifat Lokal": false,
+            "Merica": false,
+            "Rempah-rempah": false,
+            "Kopi": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Pelari steeple-chase harus mempunyai kecepatan seperti pelari....",
+        "picture": null,
+        "options": {
+            "Pelari 100 meter": false,
+            "Pelari 1500 meter": false,
+            "Pelari 400 meter": false,
+            "Pelari 3000 meter": true,
+            "Pelari 800 meter": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Untuk mendapatkan kebugaran maka kita perlu berolahraga...",
+        "picture": null,
+        "options": {
+            "Kadang-kadang": false,
+            "Tapa berhenti": false,
+            "Setiap hari": false,
+            "Secara teratur": true,
+            "Bila perlu saja": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Untuk membuka dokumen yang telah disimpan untuk kegiatan editing naskah maka digunakan perintah menu...",
+        "picture": null,
+        "options": {
+            "File, New": false,
+            "File, Open": true,
+            "File, Save": false,
+            "Semua benar": false,
+            "File, Save as...": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Tab yang berisi tentang ikon-ikon untuk instruksi membuat header dan footer yaitu....",
+        "picture": null,
+        "options": {
+            "Design": false,
+            "Insert": true,
+            "Review": false,
+            "Page layout": false,
+            "Home": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "File dokumen yang diketik menggunakan Microsoft Word, saat disimpan dalam bentuk format...",
+        "picture": null,
+        "options": {
+            "GIF": false,
+            "DOCX": true,
+            "JPG": false,
+            "TXT": false,
+            "PPT": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah dari keyboard untuk menebalkan huruf pada tulisan di Microsoft Word adalah.....",
+        "picture": null,
+        "options": {
+            "Ctrl + B": true,
+            "Ctrl + C": false,
+            "Ctrl + A": false,
+            "Ctrl + I": false,
+            "Ctrl + U": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Sebutkan cara penerimaan tongkat pada gambar diatas ini",
+        "picture": "./img/2.png",
+        "options": {
+            "Secara visual": false,
+            "Tapa melihat": false,
+            "Stereek": false,
+            "steep": false,
+            "Non verbal": true
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Gubernur Jendral yang dianggap sebagai peletak dasar kebijakan dan penjajahan oleh VOC (Belanda) di Indonesia...",
+        "picture": null,
+        "options": {
+            "J.P Coen": true,
+            "Picter Both": false,
+            "H.W Dandels": false,
+            "J.Van dan Boseh": false,
+            "Gerard Raynst": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Bentuk bentuk simbol adat minangkabau yaitu...",
+        "picture": null,
+        "options": {
+            "Rumah gadang": false,
+            "Pakaian adat minangkabau": false,
+            "Marawa": false,
+            "Semua jawaban benar": true,
+            "Pelaminan": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Salah satu peristiwa penting dalam sejarah Kolonialisme dan Imperialisme Barat adanya penemuan Tanjung Harahap. Tanjung Harahap yang terletak di Afrika Selatan yang Diterima Ole seorang Pelaut Portugis...",
+        "picture": null,
+        "options": {
+            "Vosca dan Gasho": false,
+            "Pendro HIvares": false,
+            "Sebastian del Cano": false,
+            "Bartolomeu Dais": true,
+            "Dom Henry": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Tes kesegaran jasmani lari 12 menit bertujuan untuk mengukur....",
+        "picture": null,
+        "options": {
+            "Daya tahan jantung": false,
+            "Kecepatan": false,
+            "Daya tahan": true,
+            "Paru paru": false,
+            "Kekuatan": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Icon Calibri (Body) berfungsi untuk.....",
+        "picture": null,
+        "options": {
+            "Untuk membuka file": false,
+            "Untuk menentukan besarnya huruf": false,
+            "Untuk menentukan jenis atau tipe huruf": true,
+            "Untuk menyimpan file": false,
+            "Untuk rata kiri dan kana paragraph": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Untuk menentukan jenis perpindahan halaman di dalam dokumen word 2010 disebut.....",
+        "picture": null,
+        "options": {
+            "Data and Time": false,
+            "Page numbers": false,
+            "Field": false,
+            "size": false,
+            "Break": true
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Dibawah in kegiatan yang dapat meningkatkan kebugaran jasmani adalah....",
+        "picture": null,
+        "options": {
+            "Main sepeda": false,
+            "Memanjat pohon": false,
+            "Main kejar kejaran": false,
+            "Menonton bola": false,
+            "Berolahraga teratur": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Dalam lomba marathon 10 km biasanya atlet menggunakan start...",
+        "picture": null,
+        "options": {
+            "Stengah jongkok": false,
+            "Berdiri dengan badan condong ke depan": true,
+            "Jongkok": false,
+            "Stengah berdiri": false,
+            "Melayang": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Icon Word ditunjuk dengan gambar...",
+        "picture": null,
+        "options": {
+            "W": true
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah dari keyboard untuk memilih (memblok) semua tulisan di Microsoft Word adalah...",
+        "picture": null,
+        "options": {
+            "Ctrl + A": true,
+            "Ctrl + X": false,
+            "Ctrl + I": false,
+            "Ctrl + C": false,
+            "Ctrl + U": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Gambar di atas menunjukkan bentuk latihan...",
+        "picture": null,
+        "options": {
+            "Pull up": true,
+            "Squat trust": false,
+            "Melatih tangan": false,
+            "Melatih kaki": false,
+            "Melatih punggung": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Latar belakang Kolonialisme, faktor utamanya gold, gospel, dan Glory yang dikatakan Gospel...",
+        "picture": null,
+        "options": {
+            "Abad penemuan": false,
+            "Mencapai Kejayaan": false,
+            "Jatuhnya Konstantinopel": false,
+            "Penyebaran Agama": true,
+            "Mencapai Negara": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Rumah adat tradisional sebagai tempat tinggal keluarga mandeh sako (ibu atau keluarga kaum menurut garis keturunan ibu). Pernyataan di atas merupakan pengertian dari...",
+        "picture": null,
+        "options": {
+            "Pakaian": false,
+            "Marawa": false,
+            "Rumah gadang": true,
+            "Simbol": false,
+            "Pelaminan": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Penutup kepala yang biasanya disebut juga dengan saluak batimba yang terbuat dari kain batik disebut...",
+        "picture": null,
+        "options": {
+            "Topi": false,
+            "Destar (deta)": true,
+            "Sandang": false,
+            "Kopiah": false,
+            "Sesamping": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Tonggak atau tiang rumah gadang dialas dengan batu pipih dan disebut dengan...",
+        "picture": null,
+        "options": {
+            "Pelaminan": false,
+            "Atam": true,
+            "Sandi": false,
+            "Ukiran": false,
+            "Tirai kolom": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Warna marawa (bendera yang benar) yaitu...",
+        "picture": null,
+        "options": {
+            "Merah, Merah jambu, hitam": false,
+            "Merah, hitam, coklat": false,
+            "Hijau, merah, hitam": false,
+            "Putih, hitam, merah": false,
+            "Hitam, kuning, merah": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Lari steeple-chase merupakan salah satu nomor lari...",
+        "picture": null,
+        "options": {
+            "Jarak pendek": false,
+            "Jarak sedang": false,
+            "Marathon": false,
+            "Jarak menengah": false,
+            "Jarak jauh": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Latihan gambar di samping kiri bertujuan melatih...",
+        "picture": null,
+        "options": {
+            "Kekuatan": false,
+            "Kecepatan": false,
+            "Kelincahan": false,
+            "Koordinasi": true,
+            "Keseimbangan": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Bagaimana cara membuat teks rata kiri kanan?",
+        "picture": null,
+        "options": {
+            "Ctrl + L": false,
+            "Ctrl + E": false,
+            "Ctrl + B": false,
+            "Ctrl + J": true,
+            "Ctrl + R": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Page setup berfungsi untuk...",
+        "picture": null,
+        "options": {
+            "Memprint data": false,
+            "Mencetak kertas": false,
+            "Keluar dari tampilan": false,
+            "Membuka lembar kerja": false,
+            "Mengatur halaman": true
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Shortcut CTRL+E di dalam MS Word digunakan untuk...",
+        "picture": null,
+        "options": {
+            "Exit": false,
+            "Export File": false,
+            "Paragraf Center": true,
+            "Masuk ke menu edit": false,
+            "Menu": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Cara membuat tabel di MS Word adalah...",
+        "picture": null,
+        "options": {
+            "Insert + Shapes": false,
+            "Insert + Table": true,
+            "Insert + Picture": false,
+            "Insert + Header": false,
+            "Insert + Page Break": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Lari steeple-chase dilakukan melalui...",
+        "picture": null,
+        "options": {
+            "Jalan berbatuan": true,
+            "Jalan raya": false,
+            "Rintangan berair dan gawang": false,
+            "Jalan pegunungan": false,
+            "Jalan pesawahan": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Cara memainkan bola dengan efisien dan efektif sesuai peraturan permainan bola voli yang berlaku untuk mencapai suatu hasil yang optimal...",
+        "picture": null,
+        "options": {
+            "Teknik bermain bola voli": false,
+            "Pola permainan bola voli": false,
+            "Taktik bermain bola voli": true,
+            "Strategi bermain bola voli": false,
+            "Langkah-langkah bermain voli": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Arti dari alam takambang jadi guru yaitu....",
+        "picture": null,
+        "options": {
+            "Alam sebagai tempat bermain": false,
+            "Alam sebagai tempat belajar": true,
+            "Alam sebagai tempat mengabdi": false,
+            "Semua jawaban benar": false,
+            "Alam sebagai tempat hidup": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Istilah untuk bendera, lambang, atau umbul-umbul kebesaran masyarakat Minangkabau merupakan pengertian dari....",
+        "picture": null,
+        "options": {
+            "Marawa": true,
+            "Tangkuluak": false,
+            "Pelaminan": false,
+            "Rumah Gadang": false,
+            "Kain Salempang": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Ciri-ciri perlawanan yang terjadi sebelum lahirnya kesatuan nasional.",
+        "picture": null,
+        "options": {
+            "Bersifat Lokal": true,
+            "Adanyata praktik diskriminasi": false,
+            "Penderitaan rakyat": false,
+            "Mempersatukan jawa": false,
+            "Penderitaan sistem tanam paksa": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Kesamaan kebijakan nasional, perlawanan bangsa portugis dan penjajahan belanda yang memicu perlawanan senjata rakyat Indonesia...",
+        "picture": null,
+        "options": {
+            "Pernyataan hak azozi": false,
+            "Campur tangan terhadap masalah Internal kerajaan": false,
+            "Monopoli perdagangan senjata": false,
+            "Mengandalkan kekuatan senjata": true,
+            "Menerapkan strategi berjuang": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Dalam permainan bola voly modern servis dapat diartikan sebagai....",
+        "picture": null,
+        "options": {
+            "Pasing pertama": false,
+            "Pukulan permulaan": false,
+            "Tanda dimulainya permainan": true,
+            "Menyajikan bola pertama": false,
+            "Serangan pertama": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Bagaimana cara membuat teks rata kiri kanan?",
+        "picture": null,
+        "options": {
+            "Ctrl+E": true,
+            "Ctrl+B": false,
+            "Ctrl+R": false,
+            "Ctrl+J": false,
+            "Ctrl+L": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Jumlah pelari dalam pelaksanaan lari sambung adalah...",
+        "picture": null,
+        "options": {
+            "3 orang": false,
+            "7 orang": false,
+            "6 orang": false,
+            "5 orang": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Seseorang supaya mau berolahraga, maka harus ditanamkan…",
+        "picture": null,
+        "options": {
+            "Dibiasakan": true,
+            "Pada masa remaja": false,
+            "Sekarang juga": false,
+            "Sedini mungkin": false,
+            "Sejak dewasa": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Urutan pelaksanaan lompat jauh adalah...",
+        "picture": null,
+        "options": {
+            "Tolakan - lari - melayang- melompat": false,
+            "Mendarat- lari- melayang-tolakan": false,
+            "Lari melayang- mendarat - menolak": false,
+            "Lari- menolak-melayang-mendarat": true,
+            "Melayang- mendarat- lari tolakan": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Manfaat memiliki tubuh yang bugar adalah...",
+        "picture": null,
+        "options": {
+            "Badab terasa ringan": false,
+            "Badan terasasehat": false,
+            "Badan tersa aktif": false,
+            "Badan terasa fit": true,
+            "Badan akan aktif bergerak": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Berdasarkan hasil perjanjian renvile yang akhirnya Belanda membentuk Negara Boneka diantaranya…",
+        "picture": null,
+        "options": {
+            "Negara Jawa Timur": false,
+            "Puputan Marganara": false,
+            "Rakyat Indonesia": false,
+            "Negara Sulawesi": false,
+            "Negara Surabaya": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Arti - Lambang (marawa) bendera warna sirah/merah....",
+        "picture": null,
+        "options": {
+            "Kepemimpinan - Luhak Agam": true,
+            "Keagamaan": false,
+            "Keberanian - Luhak Lima Puluh Koto": false,
+            "Kehormatan - Luhak Tanah Datar": false,
+            "Penghulu": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Gambar diatas merupakan ukiran motif dari....",
+        "picture": "/img/3.png",
+        "options": {
+            "Siriah gadang": false,
+            "Pucuk rebung": false,
+            "Kaluak paku dan bada mudiak": false,
+            "Itiak pulang patang": false,
+            "Bada mudiak dan itiak pulang patang": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Gambar diatas merupakan bentuk dari....",
+        "picture": "/img/4.png",
+        "options": {
+            "Konstruksi rumah gadang": false,
+            "Ukiran rumah gadang": false,
+            "Atap rumah gadang": true,
+            "Tirai kolom": false,
+            "Sandi": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Yang dikepala wanita tersebut dinamakan...",
+        "picture": "/img/1.png",
+        "options": {
+            "Destar": false,
+            "Topi": false,
+            "Tangkuluak": true,
+            "Perhiasan": false,
+            "Kain sarung": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Kebijakan yang diterapkan oleh VOC Selama berkuasa di nusantara adalah...",
+        "picture": null,
+        "options": {
+            "Membantu pemerintah melawan penduduk spanyol": false,
+            "Menghindari persaingan dengan spanyol": false,
+            "Mengadakan perjanjian perang": false,
+            "Menopoli perdagangan rempah-rempah": true,
+            "Berlakunya pajak contingenten dan Verplieh Leverantien": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Salah satu sebab runtuhnya VOC adalah perdagangan pertikelir. Istilah ini mengacau pada kenyataan yang lazim di lakukan para pergaulan VOC Ketika itu., yaitu...",
+        "picture": null,
+        "options": {
+            "Menerita gratifikasi dari perdagangan": false,
+            "Terlibat dalam perdagangan rempah-rempah": false,
+            "Memusatkan perhatian pada kepentingan": false,
+            "Beralih status dari VOC Menjadi pedagang swasta": true,
+            "Memeras pedagang-pedagang enceran": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah dari keyboard untuk menyalin atau mencopy pada tulisan di Microsoft Word adalah .....",
+        "picture": null,
+        "options": {
+            "Ctrl + A": false,
+            "Ctrl + U": false,
+            "Ctrl + I": false,
+            "Ctrl + C": true,
+            "Ctrl + B": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Dalam lomba lari jarak pendek ( sprint) kebanyakan atlet menggunakan start...",
+        "picture": null,
+        "options": {
+            "Duduk stengah berdiri": false,
+            "Berdiri": true,
+            "Melayang": false,
+            "Semua benar": false,
+            "Jongkok": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Bagaimana membuka file yang telah disimpan?",
+        "picture": null,
+        "options": {
+            "Ctrl + E": false,
+            "Ctrl + 0": false,
+            "Ctrl + S": false,
+            "Ctrl+ N": false,
+            "Ctrl+ J": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Urutan perintah yang digunakan untuk menyisipkan gambar / foto di dokumen Word adalah : .....",
+        "picture": null,
+        "options": {
+            "Insert - Picture": true,
+            "Insert - view": false,
+            "Insert - Smart Art": false,
+            "Insert - Shapes": false,
+            "Insert - Chart": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Apabila pemain atau reg memperlambat permainan, tindakan wait adalah...",
+        "picture": null,
+        "options": {
+            "Member kartu merah": false,
+            "Member peringatan": false,
+            "Memberi kartu kuning": true,
+            "Memberi angka untuk lawan": false,
+            "Mengelurkan pemain tersebut": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah shortcut untuk memindah semua isi folder secara berurutan.....",
+        "picture": null,
+        "options": {
+            "Ctrl C, Ctrl, A Ctrl V": false,
+            "Ctrl A, Ctrl X Ctrl P": false,
+            "Ctrl X, Ctrl, A Ctrl V": false,
+            "Ctrl A, Ctrl X, Ctrl V": true
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Keuntungan yang di peroleh bangsa portugis dan spanyol dari para imigran kontinopel berupa...",
+        "picture": null,
+        "options": {
+            "Penunjuk jalan ke afrika dan": false,
+            "Kemampuan Bidang Militer": false,
+            "Pasukan Logistik": false,
+            "Transper Ilmu Pengetahuan": true,
+            "Strategi Militer": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Kebijakan VOC menebang kelebihan jumlah tanaman agar produksinya tidak berlebih sehingga harga dapat dipertahankan di sebut kebijakan...",
+        "picture": null,
+        "options": {
+            "Ekstripasi": true,
+            "Pelayaran Hongi": false,
+            "Retribusi": false,
+            "Monopoli": false,
+            "Afirmatif": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Tabie/kain tabie adalah......",
+        "picture": null,
+        "options": {
+            "Tempat duduk": false,
+            "Kain penutup dinding": false,
+            "Kain yang berhias di taburi manik-manik dan kaca": true,
+            "penutup loteng (langit-langit)": false,
+            "Penutup lantai": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Perluasan dan Pengaruh suatu bangsa terhadap bangsa lain, pengertian dari....",
+        "picture": null,
+        "options": {
+            "Daerah jajahan": false,
+            "Bangkitnya Negara Baru": false,
+            "Penyelidiki": false,
+            "Imperialisme": true,
+            "Kolonialisme": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Berikut adalah hal istimewa untuk VOC, yang ada di Nusantara kecuali...",
+        "picture": null,
+        "options": {
+            "Kedatangan cornelis di Hotman": false,
+            "Membantu pemerintah melawan penduduk spanyol": true,
+            "Menanam rempah-rempah": false,
+            "Persaingan yang tidak sehat": false,
+            "Mengadakan perjanjian serta memaklumkan perang dengan Negara lain": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Arti Lambang dari ( marawa ) bendera warna hitam yaitu....",
+        "picture": null,
+        "options": {
+            "Keagamaan": false,
+            "Keberanian - Luhak Lima Puluh Koto": false,
+            "Kepemimpinan - Luhak Agam": false,
+            "Kesopanan": true,
+            "Kehormatan - Luhak Tanah Datar": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Posisi lengan saat melakuakn pasing bawah permainan bola voly adalah....",
+        "picture": null,
+        "options": {
+            "Mata difokuskan": false,
+            "Lengan ditegangkan": false,
+            "Lengan diluruskan": false,
+            "Siku dibengkokkan": true,
+            "Lengan dibengkkokan": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Sat menerima tongkat dengan cara melihat pelari memberi disebut cara...",
+        "picture": null,
+        "options": {
+            "Menunduk": false,
+            "Menengadah": false,
+            "Visual": true,
+            "Melihat": false,
+            "Menoleh": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Pertintah untuk menyisipkan gambar adalah dari menu. .....",
+        "picture": null,
+        "options": {
+            "File": false,
+            "Insert": true,
+            "Format": false,
+            "windows": false,
+            "Help": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Perintah untuk membuat presentasi baru adalah....",
+        "picture": null,
+        "options": {
+            "Edit -save": false,
+            "File-open": false,
+            "File-new": true,
+            "New-edit": false,
+            "Edit- new": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Tujuan utama melakukan olahraga rekreasi adalah...",
+        "picture": null,
+        "options": {
+            "Untuk kesehatan": true,
+            "Membakar kalori": false,
+            "Mencari teman": false,
+            "Mendapat kelelahan": false,
+            "Membuat kegembiraan": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Lari estafet yang sering dilombakan adalah...",
+        "picture": null,
+        "options": {
+            "5 x 200 meter": false,
+            "4 x 400 meter": false,
+            "4 x 200 meter": false,
+            "3 x 100 meter": false,
+            "4 x 100 meter": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Faktor yang sangat menentukan dalam pakaian perempuan minangkabau yaitu....",
+        "picture": null,
+        "options": {
+            "Faktor pekerjaan": false,
+            "Faktor geografis": false,
+            "Semua jawaban benar": true,
+            "Faktor keadaan tempat tinggal": false,
+            "Faktor umur": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Kesamaan Kebijakan bangsa portugis dan penjajahan Belanda yang memicu perlawanan Bersenjata dari rakyat Ditujukan...",
+        "picture": null,
+        "options": {
+            "Menopoli perdangan rempah-rempah": true,
+            "Mudah di pecah belah": false,
+            "Penyebaran agama Kristen": false,
+            "Mengandakan kekuatan senjata": false,
+            "Menyerapkan strategi Benteng stelsel": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Bangsa pelopor petualang penjajahan dan penemuan dunia baru antara lain ...",
+        "picture": null,
+        "options": {
+            "Inggris": false,
+            "Spanyol dan Inggris": false,
+            "Spanyol dan Belanda": false,
+            "Spanyol dan Portugis": true,
+            "Belanda": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "VOC memakai taktik devide et impera, salah satu bentuknya adalah campur tangan Internasional dan imbalan monopoli perdagangan menguasai wilayah, tujuan VOC mencampuri urusan suatu kerajaan...",
+        "picture": null,
+        "options": {
+            "Mempertajam konflik antara pihak yang bertikat": true,
+            "Menghidupkan Perekonomian": false,
+            "Mengeritik tanam paksa": false,
+            "Sistem tanam paksa dihapuskan": false,
+            "Memudahkan Mobilitas": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Yang bukan merupakan tujuan pembentukan VOC memberikan Hak istimewa kepada VOC Hak Istimewa disebut..",
+        "picture": null,
+        "options": {
+            "Provilese": false,
+            "Konsultasi": false,
+            "Sewa Tanah": false,
+            "Oktroi": true,
+            "Ekstirpasi": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Demokrasi Pancasila pada masa Order Baru mengutamakan..",
+        "picture": null,
+        "options": {
+            "Musyawarah dan Mufakat": true,
+            "Kerukunan Bangsa": false,
+            "Keadilan yang merata": false,
+            "Kerja sama antara lembaga": false,
+            "Gotong Royong": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Pelaksanaan latihan disamping bertujuan. ..........",
+        "picture": null,
+        "options": {
+            "Cidera": false,
+            "Kelentukan": false,
+            "Rangkaian gerakan gulat": false,
+            "Peregangan": false,
+            "Kebenaran gerak": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Gambar di atas bertujuan melatih kekuatan",
+        "picture": null,
+        "options": {
+            "Otot tungkai": false,
+            "keseimbangan": false,
+            "Kelentukan": false,
+            "Kelincahan": false,
+            "Kecepatan": true
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Pelaksanaan latihan didaerah lingkaran adalah bentuk latihan....",
+        "picture": null,
+        "options": {
+            "Sirkuit training": true,
+            "Interval": false,
+            "Jalan": false,
+            "Lari": false
+        }
+    },
+    {
+        "category": "PJOK XI",
+        "question": "Gambar di atas adalah latihan gerakan…",
+        "picture": null,
+        "options": {
+            "Sitt up": false,
+            "Push up": false,
+            "Melatih punggung": false,
+            "Back up": false,
+            "Duduk": true
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Kebijakan yang diterapkan oleh VOC selama berkuasa di Nusantara Bertujuan...",
+        "picture": null,
+        "options": {
+            "Membebaskan kewajiban pajak oleh VOC": false,
+            "Kebijakan antifeodal": false,
+            "Maluku dua jenis pajak kepada rakyat": false,
+            "Perjanjian Tuntang": false,
+            "Menanam Jumlah tanaman yang lain": true
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Bukti VOC meupakan kekuatan Imperialisme",
+        "picture": null,
+        "options": {
+            "Hak untuk perjanjian": false,
+            "Berperang dengan spanyol": false,
+            "Hak banyaknya pegawai VOC": false,
+            "Menopoli Perdagangan": true,
+            "Hak untuk mencetak uang sendiri": false
+        }
+    },
+    {
+        "category": "SEJARAH XI",
+        "question": "Penyebab Runtuhnya VOC dari Faktor eksternal...",
+        "picture": null,
+        "options": {
+            "Hak memerintah di Negara jajahan": false,
+            "Menopoli Perdagangan": false,
+            "Sulitnya melakukan pengawasan terhadap daerah pengawasan VOC yang sangat luas": true,
+            "Meletusnya Revelusi Perancis": false,
+            "Hak untuk mencetak uang sendiri": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "public class JavaApplication1 { public static void main (String[] args) { int a = 9, b = 8; - System.out.printIn(a>b); adalah.. Berdasarkan kode program di atas, nama class pada java",
+        "picture": null,
+        "options": {
+            "void main": false,
+            "JavaApplication1": true,
+            "public static": false,
+            "System.out.printIn();": false,
+            "public class": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Format teks yang digunakan untuk judul website adalah?",
+        "picture": null,
+        "options": {
+            "<middle>": false,
+            "<head>": false,
+            "<right>": false,
+            "<b>": false,
+            "<title>": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Berikut ini adalah defenisi dari website yang paling benar adalah?",
+        "picture": null,
+        "options": {
+            "Kumpulan komputer yang terkoneksi satu sama lain dengan kabel jaringan": false,
+            "Jaringan komputer yang saling terhubung": false,
+            "Kumpulan komputer yang saling terhubung": false,
+            "Komputer yang dapat berkomunikasi dengan user": false,
+            "Kumpulan halaman-halaman yang berisi informasi yang saling terkait satu sama lain": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Bahasa pemrograman python dapat digunakan untuk membuat aplikasi mobile dengan menggunakan framework yang bernama....",
+        "picture": null,
+        "options": {
+            "Ionic 2": false,
+            "Kivy": true,
+            "Kotlin": false,
+            "React Native": false,
+            "Flutter": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Database Management Systems (DBMS) adalah perangkat lunak yang digunakan untuk mengelola sebuah basis data. Berikut ini yang tidak termasuk DBMS adalah",
+        "picture": null,
+        "options": {
+            "MySQL": false,
+            "Apache2": true,
+            "MariaDB": false,
+            "Oracle": false,
+            "SQL Server": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Yang tidak termasuk ke dalam hierarki Basis Data adalah....",
+        "picture": null,
+        "options": {
+            "File": false,
+            "Field": false,
+            "Record": false,
+            "User": true,
+            "Data Agregate": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Berikut ini adalah pernyataan yang benar kecuali adalah ?",
+        "picture": null,
+        "options": {
+            "<pre> digunakan untuk membuat tulisan ditampilkan sebagaimana yang di buat dalam script code": false,
+            "<b> digunakan untuk membuat tulisan cetak tebal": false,
+            "<j> digunakan untuk membuat tulisan cetak miring": true,
+            "<u> digunakan untuk membuat urutan dengan point": false,
+            "<center> digunakan untuk membuat tulisan rata tengah": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Sebuah kelas dapat memiliki lebih dari satu method. Contoh nyata dari suatu method adalah...",
+        "picture": null,
+        "options": {
+            "berjalan": true,
+            "hewan": false,
+            "Manusia": false,
+            "baju": false,
+            "kaki": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Basis data terdiri dari beberapa komponen. Yang tidak termasuk komponen tersebut adalah ...",
+        "picture": null,
+        "options": {
+            "Perangkat Keras": true,
+            "Perangkat Lunak": false,
+            "Jaringan": false,
+            "Sistem Operas yang digunakan": false,
+            "Sistem Pengelola Basis Data": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Saat ini banyak digunakan perangkat mobile dengan sistem operasi Android. Berikut ini yang bukan merupakan layer software Android adalah....",
+        "picture": null,
+        "options": {
+            "Application Framework": false,
+            "Applications": false,
+            "Android Runtime": false,
+            "Libraries": false,
+            "Unix kernel": true
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Apabila terdapat sebuah kelas yaitu bunga, maka yang merupakan objek adalah...",
+        "picture": null,
+        "options": {
+            "merah": false,
+            "putih": false,
+            "berduri": false,
+            "mawar": true,
+            "harum": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Di bawah ini yang tidak sesuai dengan aturan penulisan variabel pada java adalah..",
+        "picture": null,
+        "options": {
+            "int nilai_Siswa = 50 ;": false,
+            "int panjang = 4 ;": false,
+            "int nilai = 9 ;": false,
+            "iint 3p = 85 ;": true,
+            "int nilaiSiswa = 30 ;": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Bentuk penulisan method static yang benar adalah..",
+        "picture": null,
+        "options": {
+            "class static persegiPanjang(": false,
+            "static property": false,
+            "public int tambah()": false,
+            "static int jumlah()": true,
+            "static method": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Semua yang ingin kita tampilkan dalam halaman website kita di akan di muatkan dalam ?",
+        "picture": null,
+        "options": {
+            "<body>": true,
+            "<head>": false,
+            "<table>": false,
+            "<break>": false,
+            "<title>": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Berikut ini hasil dari pengolahan nilai variabel yang menghasilkan nilai akhir 0 adalah..",
+        "picture": null,
+        "options": {
+            "public static void main(String[] args) {\nint a = 18;\nint b = 33;\nint x = 15;\nintc=a|b;\nboolean d;\nd=x<a;\nSystem.out.printIn(d);": false,
+            "public static void main(String[] args){\nint a = 18;\nint b = 33;\nint c ;\nc= a%b;\nSystem.out.printin(c);": true,
+            "public static void main(String[] args) {\nint a = 18;\nint b = 33;\nboolean c ;\nc=a <b;\nSystem.out.printIn(c);": false,
+            "public static void main(String[] args){\nint a = 20;": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Untuk membuat tampilan gambar atau text rata tengah digunakan tag ?",
+        "picture": null,
+        "options": {
+            "<center>": true,
+            "<left>": false,
+            "<right>": false,
+            "<header>": false,
+            "<top>": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Sebuah keyword di java yang menandakan bahwa objek, method, atau atribut dapat diakses dari kelas lain...",
+        "picture": null,
+        "options": {
+            "public": true,
+            "static": false,
+            "class": false,
+            "package": false,
+            "void": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Icon-icon yang berada dipojok kanan atas jendela, secara berurutan memiliki fungi sebagai berikut....",
+        "picture": null,
+        "options": {
+            "SEMUA JAWABAN BENAR": true,
+            "Minimize, Maximize, Close": false,
+            "Maximize Restore, Close": false,
+            "Minimize, Restore, Close": false,
+            "Maximize, Restore, Close": false
+        }
+    },
+    {
+        "category": "INFORMATIKA XI",
+        "question": "Untuk menentukan batas atau posisi naskah pada lembar kerja, maka pada menu page setup dapat dipilih perintah...",
+        "picture": null,
+        "options": {
+            "Indent": false,
+            "Page size": false,
+            "Other Pages": false,
+            "Margin": true,
+            "Spacing": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Merupakan sistem operasi mobile yang dibuat oleh Andy Rubin pada tahun 2005 dan dirilis pada tahun 2007. Sistem operas yang dimaksud adalah.",
+        "picture": null,
+        "options": {
+            "ios": false,
+            "Windows Phone": false,
+            "BlackBerry": false,
+            "Android": true,
+            "Symbian": false
+        }
+    },
+    {
+        "category": "KK RPL",
+        "question": "Apakah fungsi dari tag <HTML> dalam format teks?",
+        "picture": null,
+        "options": {
+            "Menandakan adalah web file": true,
+            "Menandakan adalah sebuah web server": false,
+            "Merupakan sebuah hyperlink": false,
+            "Menandakan file tersebut adalah ekstensi file format html": false,
+            "Merupakan file website": false
+        }
+    }
+]
