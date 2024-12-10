@@ -64,9 +64,9 @@
         "question": "Apa makna dari sarawa jao (celana batik jao)....",
         "picture": null,
         "options": {
-            "Laki laki Minangkabau tau di nan ampek": true,
+            "Laki laki Minangkabau tau di nan ampek": false,
             "Berhati sempit": false,
-            "Berhati lapang": false,
+            "Berhati lapang": true,
             "Suka mencela": false,
             "Sopan santun": false
         }
@@ -392,7 +392,7 @@
             "12 pemain": false,
             "13 pemain": false,
             "9 pemain": false,
-            "E pemain": true
+            "6 pemain": true
         }
     },
     {
@@ -400,11 +400,11 @@
         "question": "Arti - Lambang dari (marawa) bendera warna kuning yaitu....",
         "picture": null,
         "options": {
-            "Kehormatan - Luhak Tanah Datar": false,
+            "Kehormatan - Luhak Tanah Datar": true,
             "Keagamaan": false,
             "Penghulu": false,
             "Keberanian - Luhak Lima Puluh Koto": false,
-            "Kepemimpinan - Luhak Agam": true
+            "Kepemimpinan - Luhak Agam": false
         }
     },
     {
@@ -721,8 +721,8 @@
         "picture": null,
         "options": {
             "Pelaminan": false,
-            "Atam": true,
-            "Sandi": false,
+            "Atam": false,
+            "Sandi": true,
             "Ukiran": false,
             "Tirai kolom": false
         }
@@ -971,9 +971,9 @@
         "question": "Arti - Lambang (marawa) bendera warna sirah/merah....",
         "picture": null,
         "options": {
-            "Kepemimpinan - Luhak Agam": true,
+            "Kepemimpinan - Luhak Agam": false,
             "Keagamaan": false,
-            "Keberanian - Luhak Lima Puluh Koto": false,
+            "Keberanian - Luhak Lima Puluh Koto": true,
             "Kehormatan - Luhak Tanah Datar": false,
             "Penghulu": false
         }
@@ -1139,8 +1139,8 @@
         "picture": null,
         "options": {
             "Tempat duduk": false,
-            "Kain penutup dinding": false,
-            "Kain yang berhias di taburi manik-manik dan kaca": true,
+            "Kain penutup dinding": true,
+            "Kain yang berhias di taburi manik-manik dan kaca": false,
             "penutup loteng (langit-langit)": false,
             "Penutup lantai": false
         }
@@ -1176,8 +1176,8 @@
         "options": {
             "Keagamaan": false,
             "Keberanian - Luhak Lima Puluh Koto": false,
-            "Kepemimpinan - Luhak Agam": false,
-            "Kesopanan": true,
+            "Kepemimpinan - Luhak Agam": true,
+            "Kesopanan": false,
             "Kehormatan - Luhak Tanah Datar": false
         }
     },
