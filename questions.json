@@ -1182,6 +1182,42 @@
         }
     },
     {
+        "category": "MULOK XI",
+        "question": "Bangunan kecil beratap gonjong seperti rumah gadang (Lumbung padi) yang terletak di halaman rumah gadang di sebut.......",
+        "picture": null,
+        "options": {
+            "Ukiran": false,
+            "Motif": false,
+            "Rumah Gadang": false,
+            "Pelaminan": false,
+            "Rangkiang": true
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Pakaian yang terdiri dari tengkuluk, baju kurung basiba, kain salempang, kain sarung, serta hiasan seperti anting-anting, gelang dan kalung merupakan pakaian dari",
+        "picture": null,
+        "options": {
+            "Pakaian bundo kanduang": true,
+            "Semua jawaban benar": false,
+            "Pakaian laki - laki Gadang": false,
+            "Pakaian Penghulu": false,
+            "Pakaian adat Jawa": false
+        }
+    },
+    {
+        "category": "MULOK XI",
+        "question": "Marawa di pasang atau di pakai ketika......",
+        "picture": null,
+        "options": {
+            "Pelantikan/pengambilan sumpah pejabat nasional, daerah": true,
+            "Acara Nasional seperti 17 Agustus": false,
+            "Di pasang kiri-kanan gerbang tempt acara (di ikuti marawa yang lebih kecil)": false,
+            "Semua jawaban benar": false,
+            "Acara peringatan hari besar Islam seperti isra' Mi'raj, 1 muharam": false
+        }
+    },
+    {
         "category": "PJOK XI",
         "question": "Posisi lengan saat melakuakn pasing bawah permainan bola voly adalah....",
         "picture": null,

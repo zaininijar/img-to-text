@@ -1,75 +1,234 @@
--[soal]-
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.55.57
 Tes : KK RPL Refresh
+A A
+Soal ke 7
+Sisa Waktu : 46 menit
 Salah satu tipe data bilangan dimana bilangan tersebut tidak
 memiliki titik desimal atau pecahan bilangan disebut tipe
 data..
 O boolean
 O character
 O float
-O String
+String
 O integer
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.43
 Tes: KK RPL
+Refresh
+A A
+Soal ke 23
+Sisa Waktu : 45 menit
 Aplikasi pengembangan mobile yang memiliki ciri adanya
 tambahan "m" pada awal URL disebut dengan.
-O Aplikasi native
-O Virtual aplikasi
-O Aplikasi web mobile
-O Aplikasi desktop
-O Apliksu hybrid
--[end soal]-
-
--[soal]-
+• Aplikasi native
+• Virtual aplikasi
+Aplikasi web mobile
+© Aplikasi desktop
+• Apliksu hybrid
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.04.21
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 12
+Sisa Waktu : 58 menit
 Pakaian adat bundo kanduang terdiri dari....
-O Kain sarung
-O Semua jawaban benar
+• Kain sarung
+• Semua jawaban benar
 O Baju kurung basiba
 O Kain selempang
-O Temgkuluak
-
--[end soal]-
-
--[soal]-
-
+• Temgkuluak
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes: INFORMATIKA XI Refresh
+A A
+Soal ke 28
+Sisa Waktu : 42 menit
 Cetak tebal ditunjuk dengan icon ...
 O
 ‡E
 I
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.50
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 27
+Sisa Waktu : 42 menit
 Ikon Margins dalam Microsoft Word digunakan untuk ...
 mengatur rata kiri
 mengatur jenis kertas
 O mengatur perataan teks
 O mengatur batas-batas pengetikan
 O mengatur halaman
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Neger 1 Rao Selatan
+=====================================================
+09.04.28
 Tes : MULOK XI
 Refresh
-
+A A
+Soal ke 15
+Sisa Waktu : 58 menit
 Apa makna dari sarawa jao (celana batik jao)....
 O Laki laki minangkabau tau di nan ampek
 O Berhati sempit
-O Berhati lapang
-O Suka mencela
+• Berhati lapang
+• Suka mencela
 O Sopan santun
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+3
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.40
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 22
+Sisa Waktu : 45 menit
 Aplikasi hybrid adalah aplikasi yang pengembangannya
 menggabungkan antara aplikasi native dan apllikasi web
 mobile. Berikut ini yang bukan kelebihan aplikasi hybrid ialah
@@ -83,157 +242,425 @@ Memerlukan bantuan framework pengembangan aplikasi
 mobile berbasis web
 ) Memungkinkan pembuatan aplikasi secara online
 maupun offline
-O Proses pengembangannya jauh lebih mudah
+• Proses pengembangannya jauh lebih mudah
 dibandingkan aplikasi native
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+11
+13
+15
+16
+18
+19
+=====================================================
+09.56.01
 Tes: KK RPL Refresh
-
+A A
+Soal ke 9
+Sisa Waktu : 46 menit
 ERD mambantu melakukan analisis dan perancangan basis
 data dengan alasan....
-O ERD mudah dipahami bagi pengguna awam
-O Dapat lebih mudah dalam mendesain basis data
+• ERD mudah dipahami bagi pengguna awam
+• Dapat lebih mudah dalam mendesain basis data
 Menggunakan simbol yang mudah dipahami oleh
 pengguna
 Menghemat waktu perancangan basis data
 ERD dapat menunjukkan bermacam-macam data yang
 dibutuhkan dan relasi antardata di dalamnya
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+13
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.05.02
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 20
+Sisa Waktu : 57 menit
 Macam macam rangkiang di minangkabau yaitu....
 O Rangkiang kaciak
 O Rangkiang sitangguang lapa
-O Rangkiang sibayai bayau
-O Semua jawaban benar
-O Rangkiang sitinjau lauik
-
-
--[end soal]-
-
--[soal]-
+• Rangkiang sibayai bayau
+• Semua jawaban benar
+• Rangkiang sitinjau lauik
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.27
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 16
+Sisa Waktu : 45 menit
 Apabila ada 2 buah operand yang bernilai 1 dan 0 dan
 diberikan operator AND (&), maka akan memiliki hasil...
 01
 00
 ( 11
 ) 0,1
-O 10
-
--[end soal]-
-
--[soal]-
+• 10
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.28
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 21
+Sisa Waktu : 43 menit
 Program aplikasi yang digunakan untuk pengolahan kata
 seperti membuat makalah, surat ,skripsi di
-O microsft excel
+• microsft excel
 wordart
 microsoft word
 O wordpard
-O microsoft power point
-
--[end soal]-
-
--[soal]-
+• microsoft power point
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+03.45.44
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 25
+Sisa Waktu : 42 menit
 Perintah dari keyboard untuk melakukan cetak miring pada
 tulisan di Microsoft Word adalah.....
 ( Ctrl + C
 O Ctrl + U
 Ctrl + I
 O Ctrl + A
-O Ctrl + X
--[end soal]-
-
--[soal]-
+• Ctrl + X
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+5
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+a0 Salatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.33
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 19
+Sisa Waktu : 45 menit
 Abstraksi dari sesuatu yang mewakili dunia nyata seperti
 benda, manusia, satuan organisasi, tempat kejadian, struktur,
 status atau hal-hal yang bersifat abstrak dinamakan...
 Objek
 O Atribut
-O Method
+© Method
 O Kelas
-O Inheritance
-
-
--[end soal]-
-
--[soal]-
+• Inheritance
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+09.04.55
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 17
+Sisa Waktu : 57 menit
 Dari jawaban dibawah ini manakah yang benar Daerah yang
 termasuk darek ( luhak nan tigo )adalah....
-O Negeri 9
-O Luhak tanah datar
-O Pasaman
-O Tiku pariaman
+• Negeri 9
+© Luhak tanah datar
+© Pasaman
+• Tiku pariaman
 O Rantau kampar
-
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.06.03
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 27
+Sisa Waktu : 56 menit
 Setiap keputusan harus ditegakkan dengan wibawa.
 Pernyataan diatas merupakan lambang dari....
 O Kain sandang
 O Sesamping
-O Tongkat
+• Tongkat
 O Keris
 O Baju hitam longgar
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.48
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 25
+Sisa Waktu : 45 menit
 Untuk tulisan "SYAKILA" tag yang digunakan dalam format
 teks tersebut adalah?
 <i>
-O <u>
-O <b>
+• <u>
+• <b>
 O <ul>
 ‹title>
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.58
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 30
+Sisa Waktu : 42 menit
 Kegunaan dari tombol Caps Lock yaitu pada pengeditan
 dokumen adalah...
 O Mengunci kalimat menjadi besar
-O Mengunci paragraph menjadi besar
-O Semua Benar
+• Mengunci paragraph menjadi besar
+• Semua Benar
 Mengunci huruf menjadi besar
 Mengunci kata menjadi besar
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+8
+10
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.45
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 24
+Sisa Waktu : 45 menit
 Saat ini banyak digunakan perangkat mobile dengan sistem
 operasi Android. Berikut ini yang bukan merupakan layer
 software Android adalah....
@@ -242,41 +669,108 @@ O Libraries
 O Unix kernel
 ( Applications
 Application Framework
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.57.03
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 30
+Sisa Waktu : 45 menit
 Format teks yang digunakan untuk heading adalah?
 ‹middle>
 <head>
-O <right>
+• <right>
 O ‹title>
 (<h>
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+8
+10
+13
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.50
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 26
+Sisa Waktu : 45 menit
 Jika diketahui atribut dari entitas pasien, yaitu kode_pasien,
 nama_pasien, jenis_kelamin, umur, dan alamat. Yang
 merupakan atribut kunci primer adalah
 .....
 O nama_pasien
-O umur
+• umur
 O alamat
 O jenis_kelamin
 kode_pasien
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.05.11
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 24
+Sisa Waktu : 57 menit
 Tempat duduk pengantin yang dihiasi, sebagai simbol sahnya
 hubungan antara laki-laki dengan perempuan dalam ikatan
 suami istri ( keluarga), karena sesuai dengan syariat agama
@@ -284,782 +778,2443 @@ islam.
 Pernyataan diatas merupakan pengertian dari....
 O Ukiran
 O Rumah gadang
-O Marawa
-O Pakaian
-O Pelaminan
-
-
--[end soal]-
-
--[soal]-
+• Marawa
+• Pakaian
+• Pelaminan
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.05.07
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 22
+Sisa Waktu : 57 menit
 Tirai kolom adalah......
 O Tempat duduk
-O Kain yang berhias di taburi manik-manik dan kaca
-O penutup loteng (langit-langit)
-O Penutup lantai
-O Kain penutup dinding
-
-
--[end soal]-
-
--[soal]-
+O Kain
+yang
+berhias di taburi manik-manik dan kaca
+penutup loteng (langit-langit)
+© Penutup lantai
+• Kain penutup dinding
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.52
 Tes: KK RPL
 Refresh
-
+A A
+Soal ke 27
+Sisa Waktu : 45 menit
 Untuk tulisan "RIO" tag yang digunakan dalam format teks
 tersebut adalah?
 O <b>
 O <i>
-O <ul>
+• <ul>
 <U>
 ) ‹title>
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+OMN NEgEI I 1 KaU Jelatall®
 09.03.31
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 4
+Sisa Waktu : 58 menit
 Makna dari ukiran motif itiak pulang patang yaitu....
-O Semua jawaban benar
-O Itiak pulang ke rumah
+• Semua jawaban benar
+• Itiak pulang ke rumah
 O Itiak pulang sore
 O Perkumpulan masyarakat
 O Kesejahteraan masyarakat
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.05.05
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 21
+Sisa Waktu : 57 menit
 Simbol berasal dari bahasa yunani yaitu....
 O Symbolly
-O Sambally
-O Symballo
+• Sambally
+• Symballo
 O Objek
 O Jenis
-
-
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+3
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 5
+Sisa Waktu : 33 menit
 Latihan yang berkesinambungan yang diselingi waktu
 istirahat disebut latihan. ...
 Interval
 ( Lari
-O Jalan
+© Jalan
 O Daya tahan
-O Latihan sirkuit
-
+• Latihan sirkuit
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
 8
-
-
--[end soal]-
-
--[soal]-
+10
+13
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.45.26
 Tes: SEJARAH XI Refresh
+A A
+Soal ke 27
+Sisa Waktu : 35 menit
 Faktor yang dilaksanakan bangs barat untuk melanjutkan
 bisnisnya adalah...
-O Perdagangan Kapitalis
-O Romawi Timur
+* Perdagangan Kapitalis
+• Romawi Timur
 O Sistem Perdagangan
 O Daerah jajahan
-O Semangat Glory
-
-
--[end soal]-
-
--[soal]-
+• Semangat Glory
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao detatan
 08.42.36
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 9
+Sisa Waktu : 43 menit
 Tombol yang digunakan untuk membatalkan perintah undo
 disebut tombol......
-O Paste
+• Paste
 O Redo
-O Copy
-O Cut
+© Copy
+• Cut
 Undo
-
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.43.25
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 20
+Sisa Waktu : 43 menit
 Untuk mengatur tulisan adalah..
 Insert-font
 O File-new
 O Format-font
-O Format-tulisan
-O Edit-open
-
-
--[end soal]-
-
--[soal]-
+© Format-tulisan
+• Edit-open
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.43.19
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 18
+Sisa Waktu : 43 menit
 Bagaimana menyimpan file yang sedang dikerjakan?
 ( Ctrl+ J
 O Ctrl+ N
-O Crtl + E
+• Crtl + E
 Ctrl + S
 ( Ctrl + 0
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao detatan
 08.42.46
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 11
+Sisa Waktu : 43 menit
 Naskah yang terletak pada bagian bawah atau )uga disebut
 catatan kaki disebut...
-O Footer
+• Footer
 O Page Number
 Header
 Symbol
-O Drop Cap
--[end soal]-
-
--[soal]-
+• Drop Cap
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.45.15
 Tes: SEJARAH XI Refresh
-
+A A
+Soal ke 24
+Sisa Waktu : 36 menit
 Pelayaran Hongi adalah pelayaran yang dilakukan oleh VOC,
 dengan menggunakan senjata lengkap untuk mengawal
 perjalanan monopoli perdagangan dagang tujuan...
 O Menangkap petani yang menjual hasil tani
 O Mengamankan monopoli perdagangan
 O Menangkap pedagang gelap atau penyeludup
-O Mempertahankan kekuasaan politik
+• Mempertahankan kekuasaan politik
 O Menghukum petani
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 2
+Sisa Waktu : 33 menit
 Komposisi dan registrasi pemain bola voly adalah....
 O 7 pemain
 12 pemain
-O 13 pemain
-O 9 pemain
+© 13 pemain
+© 9 pemain
 OE pemain
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.05.09
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 23
+Sisa Waktu : 57 menit
 Arti - Lambang dari ( marawa ) bendera warna kuning yaitu....
 Kehormatan - Luhak Tanah Datar
 O Keagamaan
-O Penghulu
-O Keberanian - Luhak Lima Puluh Koto
+• Penghulu
+• Keberanian - Luhak Lima Puluh Koto
 ) Kepemimpinan - Luhak Agam
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.03.23
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 1
+Sisa Waktu : 59 menit
 Baju kurung basiba memiliki ciri salah satunya yaitu....
-O Tidak ada jahitan pada bagian bahu
+• Tidak ada jahitan pada bagian bahu
 O Mementingkan aspek kemegahan
 O Sesuai panduan adat
-O Sesuai dengan acara yang diadakan
-O Tidak menyerupai pakaian laki - laki
-
-
--[end soal]-
-
--[soal]-
+• Sesuai dengan acara yang diadakan
+• Tidak menyerupai pakaian laki - laki
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.32.48
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 11
+Sisa Waktu : 48 menit
 Pemerintahan Belanda membuat Hak Istimewa salah satunya
 adalah…
 O Menjalankan kekuasaan kehakiman
-O Transfer Ilmu Pengetahuan
+• Transfer Ilmu Pengetahuan
 O Petunjuk jalan spanyol dan asia
 O Peatbus plancius ada ahli peta
-O Membantu pemerintahan melawan penduduk
-
-
--[end soal]-
-
--[soal]-
+• Membantu pemerintahan melawan penduduk
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.05.49
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 26
+Sisa Waktu : 56 menit
 Fungi dari rangkiang yaitu....
 O Menyimpan buku
-O Meyimpan padi milik kaum
+• Meyimpan padi milik kaum
 Menyimpan barang
 O Menyimpan harta
-O Menyimpan emas
-
-
--[end soal]-
-
--[soal]-
+• Menyimpan emas
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.03.28
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 3
+Sisa Waktu : 59 menit
 Asal usul sejarah pelaminan yaitu....
-O Seorang remaja yang kabur dari rumah untuk menikahi
+• Seorang remaja yang kabur dari rumah untuk menikahi
 perempuan yang dia cintai
 O Bundo kanduang Seorang raja perempuan yang dipinang
 oleh 7 orang raja mancanegara
 O Seorang laki laki meminang perempuan yang dicintainya
-O Seorang perempuan meminang laki laki yang dicintainya
+• Seorang perempuan meminang laki laki yang dicintainya
 O Seorang raja yang berkhianat
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+0
+7
+8
+9
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.34.12
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 18
+Sisa Waktu : 47 menit
 Sistem tanam paksa sebetulnya merupakan kelanjutan dari
 preangerstelsel yang di tanam utama adalah..
-O Bawang
+• Bawang
 O Bersifat Lokal
-O Merica
+* Merica
 O Rempah-rempah
 O Kopi
-
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 3
+Sisa Waktu : 33 menit
 Pelari steeple -chase harus mempunyai kecepatan seperti
 pelari….
-O Pelari 100 meter
-O Pelari 1. 500 meter
+• Pelari 100 meter
+• Pelari 1. 500 meter
 Pelari 400 meter
 Pelari 3000 meter
 Pelari 800 meter
-
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
 5
-
--[end soal]-
-
--[soal]-
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.09.50
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 23
+Sisa Waktu : 30 menit
 Untuk mendapatkan kebugaran maka kita perl berolahraga
 O Kadang kadang
-O Tapa berhenti
+• Tapa berhenti
 Setiap hari
-O Secara teratur
-O Bila perlu saja
-
-
-
--[end soal]-
-
--[soal]-
+• Secara teratur
+• Bila perlu saja
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+2
+14
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao detatan
 08.42.57
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 14
+Sisa Waktu : 43 menit
 Untuk membuka dokumen yang telah disimpan untuk
 kegiatan editing naskah maka digunakan perintah menu
 O File, New
 File, Open
 O File, Save
-O Semua benar
+• Semua benar
 O File, Save as...
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
 6
-
-
--[end soal]-
-
--[soal]-
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.00
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 15
+Sisa Waktu : 43 menit
 Tab yang berisi tentang ikon-ikon untuk instruksi membuat
 header dan footer yaitu
 ....
-O Design
-O Insert
+• Design
+• Insert
 Review
 Page layout
 Home
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+14
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao detatan
 08.42.53
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 13
+Sisa Waktu : 43 menit
 File dokumen yang diketik menggunakan MicrosoFt Word,
 saat disimpan dalam bentuk format ...
-O GIF
+• GIF
 O DOCX
-O JPG
-O TXT
+• JPG
+• TXT
 PPT
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
 6
-
-
--[end soal]-
-
--[soal]-
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.04
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 16
+Sisa Waktu : 43 menit
 Perintah dari keyboard untuk menebalkan huruf pada
 tulisan di Microsoft Word adalah.....
 Ctrl + B
 Ctrl + C
 O Ctrl + A
 O Ctrl + I
-O Ctrl + U
-
-
--[end soal]-
-
--[soal]-
+© Ctrl + U
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.09.39
 Tes: PJOK XI Refresh
-
-DATAR ANYS
+A A
+Soal ke 20
+Sisa Waktu : 30 menit
+DATAR ANA AYS
 Sebutkan cara penerimaan tongkat pada gambar diatas ini
 Secara visual
 Tapa melihat
-O Stereek
+• Stereek
 O steep
-O Non verbal
-
-
--[end soal]-
-
--[soal]-
+• Non verbal
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+9
+10
+63
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+Tes : PJOK XI
 Refresh
-
+A A
+Soal ke 1
 Bentuk latihan dari gambar di atas adalah untuk melatih. ...
 kecepatan
 Kekuatan otot tangan
 O Kelincahan
-O Daya tahan
+• Daya tahan
 O Keseimbangan
-
-
--[end soal]-
-
--[soal]-
+. Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+15
+16
+18
+19
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.45.06
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 22
+Sisa Waktu : 36 menit
 Gubernur Jendral yang dianggap sebagai peletak dasar
 kebijakan dan penjajahan oleh VOC (Belanda) di Indonesia...
-O J.P Coen
+© J.P Coen
 O Picter Both
-O H.W Dandels
+• H.W Dandels
 O J.Van dan Boseh
 O Gerard Raynst
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+3
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.03.25
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 2
+Sisa Waktu : 59 menit
 Bentuk bentuk simbol adat minangkabau yaitu...
-O Rumah gadang
+• Rumah gadang
 O Pakaian adat minangkabau
-O Marawa
-O Semua jawaban benar
-O Pelaminan
-
--[end soal]-
-
--[soal]-
+• Marawa
+• Semua jawaban benar
+• Pelaminan
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.05.14
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 25
+Sisa Waktu : 57 menit
 @ HEL
 witn
 Yang dikepala wanita tersebut dinamakan....
-O Destar
+• Destar
 O Topi
 O Tangkuluak
-O Perhiasan
-O Kain sarung
-
--[end soal]-
-
--[soal]-
+• Perhiasan
+• Kain sarung
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+I
+2
+3
+4
+5
+6
+8
+O
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.33.49
 Tes: SEJARAH XI Refresh
-
+A A
+Soal ke 13
+Sisa Waktu : 47 menit
 Salah satu peristiwa penting dalam sejarah Kolonialisme dan
 Imperialisme Barat adanya penemuan Tanjung Harahap.
 Tanjung Harahap yang terletak di Afrika Selatan yang
 Diterima Ole seorang Pelaut Portugis...
-O Vosca dan Gasho
+• Vosca dan Gasho
 O Pendro HIvares
-O Sebastian del Cano
-O Bartolomeu Dais
+• Sebastian del Cano
+• Bartolomeu Dais
 O Dom Henry
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+09.04.57
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 18
+Sisa Waktu : 57 menit
 Marawa di pasang atau di pakai ketika......
-O Pelantikan/pengambilan sumpah pejabat nasional,
+• Pelantikan/pengambilan sumpah pejabat nasional,
 daerah
 O Acara Nasional seperti 17 Agustus
 O Di pasang kiri-kanan gerbang tempt acara (di ikuti
 marawa yang lebih kecil)
-O Semua jawaban benar
-O Acara peringatan hari besar Islam seperti isra' Mi"'raj, 1
+• Semua jawaban benar
+• Acara peringatan hari besar Islam seperti isra' Mi"'raj, 1
 muharam
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+211
+202
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes: MULOK XI
 Refresh
-
+A A
+Soal ke 9
+Sisa Waktu : 58 menit
 Pakaian yang terdiri dari tengkuluk, baju kurung basiba, kain
 salempang, kain sarung, serta hiasan seperti anting-anting,
 gelang dan kalung merupakan pakaian dari
-O Pakaian bundo kanduang
-O Semua jawaban benar
+• Pakaian bundo kanduang
+• Semua jawaban benar
 O Pakaian laki - laki
 O Pakaian Penghulu
-O Pakaian adat Jawa
-
-
--[end soal]-
-
--[soal]-
+• Pakaian adat Jawa
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.06.06
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 28
+Sisa Waktu : 56 menit
 Bangunan kecil beratap gonjong seperti rumah gadang
 (Lumbung padi) yang terletak di halaman rumah gadang di
 sebut.......
 Ukiran
-O Motif
-O Rumah gadang
+© Motif
+• Rumah gadang
 O Prelaminan
-O Rangkiang
-
+• Rangkiang
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
 2
-
-
--[end soal]-
-
--[soal]-
-
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 27
+Sisa Waktu : 30 menit
 Gerakan pada gambar di atas selain melatih daya tahan juga
 melatih…
-O Kelentukan
-O Kekuatan
+• Kelentukan
+• Kekuatan
 Daya tahan dan kekuatan
 O Kelenturan dan kelincahan
-
-
-
--[end soal]-
-
--[soal]-
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+08.09.00
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 11
+Sisa Waktu : 31 menit
 tes kesegaran jasmani lari 12 menit bertujuan untuk
 mengukur….
 Daya tahan jantung
-O Kecepatan
-O Daya tahan
+• Kecepatan
+• Daya tahan
 O Paru paru
-O Kekuatan
-
-
--[end soal]-
-
--[soal]-
+• Kekuatan
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+15
+16
+17
+18
+19
+20
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger! 1 Kao detatan
 08.42.34
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 8
+Sisa Waktu : 43 menit
 Icon
 Calibri (Body)
 berfungsi untuk.....
 ( Untuk membuka file
-O Untuk menentukan besarnya huruf
+• Untuk menentukan besarnya huruf
 Untuk menentukan jenis atau tipe huruf
-O Untuk menyimpan file
-O Untuk rata kiri dan kana paragraph
-
-
--[end soal]-
-
--[soal]-
+• Untuk menyimpan file
+• Untuk rata kiri dan kana paragraph
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+2
+14
+16
+18
+20
+22
+24
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.42.05
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 1
+Sisa Waktu : 44 menit
 Untuk menentukan jenis perpindahan halaman di dalam
 dokumen word 2010 disebut.....
-O Data and Time
+• Data and Time
 Page numbers
-O Field
+• Field
 O size
 O Break
-
--[end soal]-
-
--[soal]-
-
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 4
+Sisa Waktu : 33 menit
 Dibawah in kegiatan yang dapat meningkatkan kebugaran
 jasmani adalah....
-O Main sepeda
-O Memanjat pohon
-O Main kejar kejaran
+• Main sepeda
+• Memanjat pohon
+• Main kejar kejaran
 Menonton bola
 Berolahraga teratur
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+4
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.08.32
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 6
+Sisa Waktu : 31 menit
 Dalam lomba marathon 10 km biasanya atlet menggunakan
 star...
-O Stengah jongkok
+• Stengah jongkok
 Berdiri dengan badan condong kedepan
-O Jongkok
+• Jongkok
 O Stengah berdiri
 O Melayang
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri Rao Selatan
 08.42.16
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 5
+Sisa Waktu : 44 menit
 Icon Word ditunjuk dengan gambar .....
 W
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+4
+16
+18
+19
+20
+22
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri Rao Selatan
 08.42.28
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 7
+Sisa Waktu : 44 menit
 Perintah dari keyboard untuk memilih (memblok) semua
 tulisan di Microsoft Word adalah .....
 ( Ctrl + A
-O Ctrl + X
+© Ctrl + X
 ( Ctrl + I
 Ctrl + C
 O Ctrl+U
-
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+14
+15
+16
+18
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.09.33
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 18
+Sisa Waktu : 30 menit
 retengah kn atar
 gambar diatas menunjukan bentuk latihan...
 Pull up
 O Squat trust
-O Melatih tangan
-O Melatih kaki
-O Melatih punggung
--[end soal]-
-
--[soal]-
+• Melatih tangan
+• Melatih kaki
+• Melatih punggung
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+15
+16
+18
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+=====================================================
+08.45.32
 Tes : SEJARAH XI Refresh
+A A
+Soal ke 30
+Sisa Waktu : 35 menit
 Latar Belakang Kolonialisme, factor utamanya gold, gospel
 dan Glory yang dikatakan Gospel...
 O Abad penemuan
 O Mencapai Kejayaan
 O Jatuhnya Konstantionoul
-O Penyebaran Agama
-O Mencapai Negara
--[end soal]-
-
--[soal]-
+• Penyebaran Agama
+• Mencapai Negara
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+5
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.06.08
 Tes : MULOK XI Refresh
+A A
+Soal ke 29
+Sisa Waktu : 56 menit
 Rumah adat tradisional sebagai tempat tinggal keluarga
 mandeh sako ( ibu
 atau keluarga kaum menurut garis
 keturunan ibu.
 Pernyataan diatas merupakn pengertian dari....
-O Pakaian
-O Marawa
-O Rumah gadang
-O Simbol
-O Pelaminan
--[end soal]-
-
--[soal]-
+• Pakaian
+Marawa
+Rumah gadang
+• Simbol
+• Pelaminan
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+Tes : MULOK XI Refresh
+A A
+Soal ke 8
+Sisa Waktu : 58 menit
 Penutup kepala yang biasanya disebut juga dengan saluak
 batimba yang terbuat dari kain batik disebut....
 O Topi
 O Destar ( deta)
-O Sandang
+• Sandang
 O Kopiah
 O Sesamping
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+2
+3
+4
+5
+6
+3
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Ran Selatan
+=====================================================
+SMK Neger 1 Kao Selatan
 09.05.00
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 19
+Sisa Waktu : 57 menit
 Tonggak atau tiang rumah gadang dialas dengan batu pipih
 dan data disebut dengan....
-O Pelaminan
-O Atam
+• Pelaminan
+© Atam
 O Sandi
-O Ukiran
-O Tirai kolom
--[end soal]-
-
--[soal]-
+• Ukiran
+• Tirai kolom
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : MULOK XI Refresh
+A A
+Soal ke 6
+Sisa Waktu : 58 menit
 Warna marawa ( bendera yang benar) yaitu....
-O Merah, Merah jambu, hitam
-O Merah, hitam, coklat
-O Hijau, merah, hitam
+• Merah, Merah jambu, hitam
+• Merah, hitam, coklat
+• Hijau, merah, hitam
 O Putih, hitam, merah
 Hitam, kuning, merah
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+B
+9
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+Tes : MULOK XI Refresh
+A A
+Soal ke 16
+Sisa Waktu : 57 menit
 Gambar diatas merupakan bentuk dari....
-O Kontruksi rumah gadang
+• Kontruksi rumah gadang
 O Ukiran rumah gadang
-O Atap rumah gadang
+• Atap rumah gadang
 O Tirai kolom
-O Sandi
--[end soal]-
-
--[soal]-
+• Sandi
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+3
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes.
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.08.40
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 9
+Sisa Waktu : 31 menit
 Lari steple- chase merupakan salah satu nomor lari...
 O Jarak pendek
-O Jarak sedang
-O Marathon
-O Jarak menengah
+• Jarak sedang
+Marathon
+Jarak menengah
 O Jarak jauh
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 25
+Sisa Waktu : 30 menit
 Latihan gambar disamping kiri bertujuan melatih..
 O Kekuatan
-O kecepatan
+• kecepatan
 O Kelincahan
 Koordinasi
 Keseimbangan
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+14
+15
+16
+18
+19
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.42.07
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 2
+Sisa Waktu : 44 menit
 Bagaimana cara membuat teks rata kiri kanan?
 Ctrl + L
 O Ctrl+E
 O Ctrl+ B
-O Ctrl + J
-O Ctrl+ R
--[end soal]-
-
--[soal]-
+( Ctrl + J
+• Ctrl+ R
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+8
+10
+3
+4
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao Jetatan
 08.42.39
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 10
+Sisa Waktu : 43 menit
 Page setup berî€€ungsi untuk...
 memprint data
 mencetak kertas
 keluar dari tampiland
 membuka lembar kerjae
 mengatur halaman
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN Neger 1 Kao Jetatan
 08.42.49
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 12
+Sisa Waktu : 43 menit
 Shortcut CTRL+E di dalam MS Word digunakan untuk....
 O Exit
 Export File
-O Paragraf Center
-O Masuk ke menu edit
+• Paragraf Center
+• Masuk ke menu edit
 O Menu
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.42.10
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 3
+Sisa Waktu : 44 menit
 Cara membuat table di MC. Word adalah....
 O Insert + Shapes
-O Insert + Table
-O Insert + Picture
-O Insert + Header
-O Insert + Page Break
--[end soal]-
-
--[soal]-
+Insert + Table
+• Insert + Picture
+• Insert + Header
+• Insert + Page Break
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+4
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.09.47
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 22
+Sisa Waktu : 30 menit
 Lari steeple- chase dilakukan melalui...
 O Jalan berbatuan
-O Jalan raya
+• Jalan raya
 Rintangan berair dan gawang
-O Jalan pegunungan
-O Jalan pesawahan
--[end soal]-
-
--[soal]-
+• Jalan pegunungan
+© Jalan pesawahan
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+14
+15
+16
+17
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.08.35
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 7
+Sisa Waktu : 31 menit
 Cara memainkan bola dengan efisien dan efektif sesuai
 peraturan permainan bola voly yang berlaku untuk mencapai
 suatu hasil yang optimal…..
 O Teknik bermain bola volli
 O Pola permainan bola voli
 O Taktik bermain bola voli
-O Strategi bermain bola voli
+• Strategi bermain bola voli
 Langkah - langkah bermain voli
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+09.04.26
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 14
+Sisa Waktu : 58 menit
 Arti dari alam takambang jadi guru yaitu....
-O Alam sebagai tempat bermain
-O Alam sebagai tempat belajar
-O Alam sebagai tempat mengabdi
-O Semua jawaban benar
-O Alam sebagai tempat hidup
--[end soal]-
-
--[soal]-
+• Alam sebagai tempat bermain
+• Alam sebagai tempat belajar
+• Alam sebagai tempat mengabdi
+• Semua jawaban benar
+• Alam sebagai tempat hidup
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+1
+2
+3
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+OMN NEgEI I 1 KaU Jelalall
 09.03.33
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 5
+Sisa Waktu : 58 menit
 Istilah untuk bendera, lambang, atau umbul-umbul
 kebesaran masyarakat Minangkabau merupakan pengertian
 dari....
 Marawa
-O Tangkuluak
-O Pelaminan
-O Rumah Gadang
-O Kain Salempang
--[end soal]-
-
--[soal]-
+• Tangkuluak
+* Pelaminan
+• Rumah Gadang
+• Kain Salempang
+Sol Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+3
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.45.30
 Tes: SEJARAH XI Refresh
-
+A A
+Soal ke 29
+Sisa Waktu : 35 menit
 Ciri- ciri perlawanan yang terjadi sebelum lahirnya kesatuan
 nasional.
 O Bersifat Lokal
 O Adanyata praktik diskriminasi
 O Penderitaan rakyat
 O Mempersatukan jawa
-O Penderitaan sistem tanam paksa
--[end soal]-
-
--[soal]-
+• Penderitaan sistem tanam paksa
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.08
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 7
+Sisa Waktu : 56 menit
 Kesamaan kebijakan nasional, perlawanan bangsa portugis
 dan penjajahan belanda yang memicu perlawanan senjata
 rakyat Indonesia...
@@ -1068,243 +3223,845 @@ O Campur tangan terhadap masalah Internal kerajaan
 O Monopoli perdagangan senjata
 O Mengandalkan kekuatan senjata
 O Menerapkan strategi berjuang
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+4
+5
+0
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+08.09.42
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 21
+Sisa Waktu : 30 menit
 Dalam permainan bola voly modern servis dapat diartikan
 sebagai....
-O Pasing pertama
-O Pukulan permulaan
+© Pasing pertama
+• Pukulan permulaan
 Tanda dimulainya permainan
 O Menyajikan bola pertama
-O Serangan pertama
--[end soal]-
-
--[soal]-
+• Serangan pertama
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+2
+14
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes: INFORMATIKA XI Refresh
+A A
+Soal ke 29
+Sisa Waktu : 42 menit
 Bagaimana cara membuat teks rata kiri kanan?
 O Ctrl+E
-O Ctrl+ B
-O Ctrl+ R
-O Ctrl + J
+Ctrl+ B
+Ctrl+ R
+( Ctrl + J
 O Ctrl+L
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+13
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.08.44
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 10
+Sisa Waktu : 31 menit
 Jumlah pelari dalam pelaksanaan lari sambung adalah. ...
-O orang
-O 3 orang
-O 7 orang
-O 6 orang
-O 5 orang
--[end soal]-
-
--[soal]-
+orang
+3 orang
+© 7 orang
+© 6 orang
+• 5 orang
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.08.37
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 8
+Sisa Waktu : 31 menit
 Seseorang supaya mau berolahraga, maka harus
 ditanamkan…
-O Dibiasakan
+• Dibiasakan
 O Pada masa remaja
 O Sekarang juga
 Sedini mungkin
-O Sejak dewasa
--[end soal]-
-
--[soal]-
+• Sejak dewasa
+Sol Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+8
+10
+13
+14
+15
+16
+17
+18
+19
+20
+22
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 30
+Sisa Waktu : 29 menit
 Urutan pelaksanaan lompat jauh adalah...
 O Tolakan - lari - melayang- melompat
-O Mendarat- lari- melayang-tolakan
+• Mendarat- lari- melayang-tolakan
 O Lari melayang- mendarat - menolak
 Lari- menolak-melayang-mendarat
 Melayang- mendarat- lari tolakan
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.09.36
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 19
+Sisa Waktu : 30 menit
 Manfaat memiliki tubuh yang bugar adalah...
 O Badab terasa ringan
-O Badan terasasehat
+• Badan terasasehat
 O Badan tersa aktif
 Badan terasa fit
 Badan akan aktif bergerak
--[end soal]-
-
--[soal]-
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+12
+13
+15
+16
+18
+19
+20
+22
+23
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.01
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 5
+Sisa Waktu : 56 menit
 Berdasarkan hasil perjanjian renvile
 yang akhirnya Belanda
 membentuk Negara Boneka diantaranya…
-O Negara Jawa Timur
+* Negara Jawa Timur
 O Puputan Marganara
 O Rakyat Indonesia
 O Negara Sulawesi
-O Negara Surabaya
--[end soal]-
-
--[soal]-
+• Negara Surabaya
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.06.11
 Tes : MULOK XI Refresh
-
+A A
+Soal ke 30
+Sisa Waktu : 56 menit
 Arti - Lambang ( marawa ) bendera warna sirah/merah....
 ) Kepemimpinan - Luhak Agam
-O Keagamaan
-O Keberanian - Luhak Lima Puluh Koto
+• Keagamaan
+* Keberanian - Luhak Lima Puluh Koto
 O Kehormatan - Luhak Tanah Datar
-O Penghulu
--[end soal]-
-
--[soal]-
+• Penghulu
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : MULOK XI
+Refresh
+A A
+Soal ke 10
+Sisa Waktu : 58 menit
 DESIDE
 Gambar diatas merupakan ukiran motif dari....
-O Siriah gadang
-O Pucuk rebung
+• Siriah gadang
+• Pucuk rebung
 O Kaluak paku dan bada mudiak
-O Itiak pulang patang
-O Bada mudiak dan itiak pulang patang
--[end soal]-
-
--[soal]-
+• Itiak pulang patang
+• Bada mudiak dan itiak pulang patang
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+2
+3
+4
+5
+6
+7
+2
+9
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.14
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 9
+Sisa Waktu : 56 menit
 Kebijakan yang diterapkan oleh VOC Selama berkuasa di
 nusantara adalah...
 O Membantu pemerintah melawan penduduk spanyol
-O Menghindari persaingan dengan spanyol
-O Mengadakan perjanjian perang
+Menghindari persaingan dengan spanyol
+• Mengadakan perjanjian perang
 O Menopoli perdagangan rempah-rempaj
-O Berlakunya pajak contingenten dan Verplieh Leverantien
--[end soal]-
-
--[soal]-
+• Berlakunya pajak contingenten dan Verplieh Leverantien
+Soal Sebelumnya
+• Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.45.22
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 26
+Sisa Waktu : 35 menit
 Salah satu sebab runtuhnya VOC adalah perdagangan
 pertikelir. Istilah ini mengacau pada kenyataan yang lazim di
 lakukan para pergaulan VOC Ketika itu., yaitu...
-O Menerita gratifikasi dari perdagangan
+• Menerita gratifikasi dari perdagangan
 O Terlibat dalam perdagangan rempah-rempah
-O Memusatkan perhatian pada kepentingan
+• Memusatkan perhatian pada kepentingan
 O Beralih status dari VOC Menjadi pedagang swasta
 Memeras pedagang-pedagang enceran
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri Rao Selatan
 08.42.25
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 6
+Sisa Waktu : 44 menit
 Perintah dari keyboard untuk menyalin atau mencopy pada
 tulisan di Microsoft Word adalah .....
 Ctrl + A
 () Ctrl + U
 ( Ctrl + I
 ( Ctrl + C
-O Ctrl + B
--[end soal]-
-
--[soal]-
+© Ctrl + B
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+14
+15
+16
+18
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.09.11
 Tes : PJOK I Refresh
-
+A A
+Soal ke 15
+Sisa Waktu : 31 menit
 Dalam lomba lari jarak pendek ( sprint) kebanyakan atlet
 mnggunakan star...
 Duduk stengah berdiri
-O Berdiri
+• Berdiri
 O Melayang
-O Semua benar
-O Jongkok
--[end soal]-
-
--[soal]-
+• Semua benar
+• Jongkok
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+16
+18
+20
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+00.10.441
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 26
+Sisa Waktu : 42 menit
 Bagaimana membuka file yang telah disimpan?
-O Crtl + E
-O Ctrl + 0
-O Ctrl + S
-O Ctrl+ N
-O Ctrl+ J
--[end soal]-
-
--[soal]-
+( Crtl + E
+Ctrl + 0
+( Ctrl + S
+• Ctrl+ N
+• Ctrl+ J
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+16
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.43.41
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 24
+Sisa Waktu : 42 menit
 Urutan perintah yang digunakan untuk menyisipkan gambar /
 foto di dokumen Word adalah : .....
-O Insert - Picture
-O Insert - view
+Insert - Picture
+• Insert - view
 O Insert - Smart Art
-O Insert - Shapes
+•
+ert - Shapes
 O Insert - Chart
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.09.03
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 12
+Sisa Waktu : 31 menit
 Apabila pemain atau reg memperlambat permainan,
 tindakan wait adalah...
 Member kartu merah
 Member peringatan
 Memberi kartu kuning
 O Memberi angka untuk lawan
-O Mengelurkan pemain tersebut
--[end soal]-
-
--[soal]-
+* Mengelurkan pemain tersebut
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+10
+11
+12
+3
+14
+15
+16
+17
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.42.12
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 4
+Sisa Waktu : 44 menit
 Perintah shortcut untuk memindah semua isi folder secara
 I berurutan.....
 Ctrl C, Ctrl, A Ctrl V
 O Ctrl A, Ctrl X Ctrl P
 O Ctrl X, Ctrl, A Ctrl V
 O Ctrl A, Ctrl X, Ctrl V
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+6
+8
+9
+10
+11
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.45.10
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 23
+Sisa Waktu : 36 menit
 Keuntungan yang di peroleh bangsa portugis dan spanyol
 dari para imigran kontinopel berupa...
 O Penunjuk jalan ke afrika dan
-O Kemampuan Bidang Militer
-O Pasukan Logistik
+Kemampuan Bidang Militer
+• Pasukan Logistik
 O Transper Ilmu Pengetahuan
 O Strategi Militer
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.32
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 10
+Sisa Waktu : 55 menit
 Kebijakan VOC menebang kelebihan jumlah tanaman agar
 produksinya tidak berlebih sehingga harga dapat di
 pertahankan di sebut kebijakan...
 O Ekstripasi
 O Pelayaran Hongi
-O Retribusi
+• Retribusi
 O Monopoli
 O Afirmatif
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+09.04.23
 Tes: MULOK XI Refresh
-
+A A
+Soal ke 13
+Sisa Waktu : 58 menit
 Tabie/kain tabie adalah......
-O Tempat duduk
+• Tempat duduk
 O Kain penutup dinding
-O Kain yang berhias di taburi manik-manik dan kaca
-O penutup loteng (langit-langit)
-O Penutup lantai
-
-
--[end soal]-
-
--[soal]-
+• Kain
+yang
+berhias di taburi manik-manik dan kaca
+penutup loteng (langit-langit)
+© Penutup lantai
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.24.32
 Tes: SEJARAH XI Refresh
-
+A A
+Soal ke 1
+Sisa Waktu : 56 menit
 Perluasan dan Pengaruh suatu bangsa terhadap bangsa lain,
 pengertian dari....
 O Daerah jajahan
@@ -1315,458 +4072,1375 @@ O Kolonialisme
 Ragu-ragu
 Soal Selanjutnya
 Daftar Soal
-
-
--[end soal]-
-
--[soal]-
+3
+4
+5
+0
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.34.01
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 15
+Sisa Waktu : 47 menit
 Berikut adalah hal istimewa untuk VOC, yang ada di
 Nusantara kecuali...
 Kedatangan cornelis di Hotman
 O Membantu pemerintah melawan penduduk spanyol
-O Menanam rempah-rempah
+• Menanam rempah-rempah
 O Persaingan yang tidak sehat
-O Mengadakan perjanjian serta memaklumkan perang
+* Mengadakan perjanjian serta memaklumkan perang
 dengan Negara lain
-
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : MULOK XI Refresh
+A A
+Soal ke 7
+Sisa Waktu : 58 menit
 Arti Lambang dari ( marawa ) bendera warna hitam yaitu....
 O Keagamaan
-O Keberanian - Luhak Lima Puluh Koto
+• Keberanian - Luhak Lima Puluh Koto
 O Kepemimpinan - Luhak Agam
 O Kesopanan
 O Kehormatan - Luhak Tanah Datar
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Goal Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+B
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.09.29
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 17
+Sisa Waktu : 31 menit
 Posisi lengan saat melakuakn pasing bawah permainan bola
 voly adalah....
 Mata difokuskan
 O Lengan ditegangkan
 O Lengan diluruskan
-O Siku dibengkokkan
+• Siku dibengkokkan
 O Lengan dibengkkokan
-
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+11
+13
+15
+16
+18
+19
+20
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes: PJOK XI Refresh
+A A
+Soal ke 29
+Sisa Waktu : 30 menit
 Sat menerima tongkat dengan cara melihat pelari memberi
 disebut cara...
-O Menunduk
-O Menengadah
-O Visual
-O Melihat
-O Menoleh
-
-
-
--[end soal]-
-
--[soal]-
+© Menunduk
+• Menengadah
+© Visual
+Melihat
+Menoleh
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+C SMK Negeri 1 Rao Selatan
+=====================================================
+08.43.32
 Tes : INFORMATIKA XI Refresh
-
+A A
+Soal ke 22
+Sisa Waktu : 42 menit
 Pertintah untuk menyisipkan gambar adalah dari menu. .....
 ( File
 Insert
 O Format
 O windows
 O Help
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
 8
 9
-
-
--[end soal]-
-
--[soal]-
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.43.36
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 23
+Sisa Waktu : 42 menit
 Perintah untuk membuat presentasi baru adalah….
-O Edit -save
-O File-open
-O File-new
+• Edit -save
+File-open
+File-new
 O New-edit
-O Edit- new
-
--[end soal]-
-
--[soal]-
-
+• Edit- new
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+14
+15
+16
+18
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 28
+Sisa Waktu : 30 menit
 Tujuan utama melakukan olahraga rekreasi adalah...
 Untuk kesehatan
 Membakar kalori
-O Mencari teman
-O Mendapat kelelahan
-O Membuat kegembiraan
-
--[end soal]-
-
--[soal]-
+• Mencari teman
+• Mendapat kelelahan
+• Membuat kegembiraan
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+13
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+08.09.27
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 16
+Sisa Waktu : 31 menit
 Lari estafet yang sering dilombakan adalah...
-O 5 x 200 meter
-O 4 x 400 meter
-O 4 x 200 meter
-O 3 x 100 meter
-O 4 x 100 meter
-
--[end soal]-
-
--[soal]-
-
+( 5 x200 meter
+© 4x 400 meter
+© 4 x200 meter
+( 3 × 100 meter
+4 × 100 meter
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+6
+8
+9
+10
+3
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+© SMK Negeri 1 Rao Selatan
+=====================================================
+Tes : MULOK XI Refresh
+A A
+Soal ke 11
+Sisa Waktu : 58 menit
 Faktor yang sangat menentukan dalam pakaian perempuan
 minangkabau yaitu....
-O Faktor pekerjaan
-O Faktor geografis
-O Semua jawaban benar
+• Faktor pekerjaan
+• Faktor geografis
+• Semua jawaban benar
 O Faktor keadaan tempat tinggal
-O Faktor umur
--[end soal]-
-
--[soal]-
+Faktor umur
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+C SMK Negeri 1 Rao Selatan
+=====================================================
+08.34.05
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 16
+Sisa Waktu : 47 menit
 Kesamaan Kebijakan bangsa portugis dan penjajahan
 Belanda
 yang memicu perlawanan Bersenjata dari rakyat
 Indonesia di Tujukan...
-O Menopoli perdangan rempah-rempah
+• Menopoli perdangan rempah-rempah
 O Mudah di pecah belah
-O Penyebaran agama Kristen
-O Mengandakan kekuatan senjata
-O Menyerapkan strategi Benteng stelsel
-
--[end soal]-
-
--[soal]-
+• Penyebaran agama Kristen
+Mengandakan kekuatan senjata
+Menyerapkan strategi Benteng stelsel
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.24.35
 Tes: SEJARAH XI Refresh
-
+A A
+Soal ke 4
+Sisa Waktu : 56 menit
 Bangsa pelopor petualang penjajahan dan penemuan
 dunia
 baru antara lain ...
 O Inggris
 O Spanyol dan Inggris
 O Spanyol dan Belanda
-O Spanyol dan Portugis
-O Belanda
-
--[end soal]-
-
--[soal]-
+• Spanyol dan Portugis
+• Belanda
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+4
+5
+0
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.34.15
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 19
+Sisa Waktu : 47 menit
 VOC memakai taktik devide et impera, salah satu bentuknya
 adalah campur tangan Internasional dan imbalan monopoli
 perdagangan menguasai wilayah, tujuan VOC mencampuri
 urusan suatu kerajaan...
 O Mempertajam konflik antara pihak yang bertikat
-O Menghidupkan Perekonomian
+© Menghidupkan Perekonomian
 O Mengeritik tanam paksa
-O Sistem tanam paksa dihapuskan
-O Memudahkan Mobilitas
-
--[end soal]-
-
--[soal]-
+© Sistem tanam paksa dihapuskan
+Memudahkan Mobilitas
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+3
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.11
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 8
+Sisa Waktu : 56 menit
 Yang
 bukan
 meupakan
 tujuan pembentukanVOC
 memberikan Hak istimewa kepada VOC Hak Istimewa
 disebut..
-O Provilese
+• Provilese
 O Konsultasi
-O Sewa Tanah
-O Oktroi
+• Sewa Tanah
+• Oktroi
 O Ekstirpasi
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+4
+5
+O
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.33.55
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 14
+Sisa Waktu : 47 menit
 Demokrasi Pancasila pada masa Order Baru mengutamakan..
 Musyawarah dan Mufakat
 O Kerukunan Bangsa
-O Keadilan yang merata
+• Keadilan yang merata
 O Kerja sama antara lembaga
-O Gotong Royong
--[end soal]-
-
--[soal]-
+• Gotong Royong
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
+3
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17 18 19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+00,07.33
 Tes: PJOK XI Refresh
-
+A A
+Soal ke 24
+Sisa Waktu : 30 menit
 Pelaksanaan latihan disamping bertujuan. .........
-O Cidera
+• Cidera
 O Kelentukan
-O Rangkaian gerakan gulat
-O Peregangan
-O Kebenaran gerak
--[end soal]-
-
--[soal]-
+• Rangkaian gerakan gulat
+Peregangan
+Kebenaran gerak
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+11
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+08.09.05
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 13
+Sisa Waktu : 31 menit
 Gambar di atas bertujuan melatih kekuatan
-O Otot tungkai
-O keseimbangan
-O Kelentukan
-O Kelincahan
+Otot tungkai
+) keseimbangan
+• Kelentukan
+• Kelincahan
 O Kecepatan
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+=====================================================
+08.09.08
 Tes : PJOK XI Refresh
-
+A A
+Soal ke 14
+Sisa Waktu : 31 menit
 Pelaksanaan latihan didaerah lingkaran adalah bentuk
 latihan....
-O Sirkuit training
+• Sirkuit training
 Training
-O Interval
+• Interval
 O Jalan
 O Lari
-
--[end soal]-
-
--[soal]-
-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+16
+18
+20
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Tes : PJOK XI Refresh
+A A
+Soal ke 26
+Sisa Waktu : 30 menit
 Gambar di atas adalah latihan gerakan…
 O Sitt up
 Push up
-O Melatih punggung
-O Back up
+• Melatih punggung
+• Back up
 O Duduk
-
--[end soal]-
-
--[soal]-
+Sol Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+16
+18
+20
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.33.45
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 12
+Sisa Waktu : 47 menit
 Kebijakan yang diterapkan oleh VOV selama berkuasa di
 Nusantara Bertujuan...
 O Membebaskan kewajiban pajak oleh VOC
-O Kebijakan antifeodal
+• Kebijakan antifeodal
 O Maluku dua jenis pajak kepada rakyat
 O Perjanjian Tuntang
 Menanam Jumlah tanaman yang lain
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.25.03
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 6
+Sisa Waktu : 56 menit
 Bukti VOC meupakan kekuatan Imperialisme
 O Hak untuk perjanjian
-O Berperang dengan spanyol
+• Berperang dengan spanyol
 O Hak banyaknya pegawai VOC
-O Menopoli Perdagangan
-O Hak untuk menectak uang sendiri
-
--[end soal]-
-
--[soal]-
+• Menopoli Perdagangan
+• Hak untuk menectak uang sendiri
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+4
+5
+•
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+08.34.08
 Tes : SEJARAH XI Refresh
-
+A A
+Soal ke 17
+Sisa Waktu : 47 menit
 Penyebab Runtuhnya VOC dari Faktor eksternal...
 O Hak memerintah di Negara jajahan
-O Menopoli Perdagangan
+• Menopoli Perdagangan
 O Sulitnya melakukan pengawasan terhadap daerah
 pengawasan VOC yang sangat luas
-O Meletusnya Revelusi Perancis
-O Hak untuk mencetak uang sendiri
-
--[end soal]-
-
--[soal]-
+• Meletusnya Revelusi Perancis
+• Hak untuk mencetak uang sendiri
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+3
+5
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+Tes: KK RPL
+09.56.58
+A A
+Refresh
+Soal ke 28
 public class JavaApplication1 {
+Sisa Waktu : 45 menit
 public static void main (String[] args) {
 int a = 9, b = 8;
 -
 System.out.printIn(a>b);
 adalah..
 Berdasarkan kode program di atas, nama class pada java
-O void main
-O JavaApplication1
+• void main
+JavaApplication1
 O public static
 O System.out.printIn();
 O public class
-
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Daftar Soal
+Soal Selanjutnya
+10
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.31
 Tes: KK RPL Refresh
-
+A A
+Soal ke 18
+Sisa Waktu : 45 menit
 Format teks yang digunakan untuk judul website adalah?
-O <middle>
-O <head>
-O ‹right>
-O <b>
-O ‹title>
--[end soal]-
-
--[soal]-
+<middle>
+<head>
+• ‹right>
+O<b>
+‹title>
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.55.59
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 8
+Sisa Waktu : 46 menit
 Berikut ini adalah defenisi dari website yang paling benar
 adalah?
 Kumpulan komputer yang terkoneksi satu sama lain
 dengan kabel jaringan
 O Jaringan komputer yang saling terhubung
-O Kumpulan komputer yang saling terhubung
-O Komputer yang dapat berkomunikasi dengan user
+• Kumpulan komputer yang saling terhubung
+• Komputer yang dapat berkomunikasi dengan user
 O Kumpulan halaman-halaman yang berisi informasi yang
-O saling terkait satu sama lain
-
--[end soal]-
-
--[soal]-
+saling terkait satu sama lain
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+13
+14
+15
+16
+18
+19
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+Tes: KK RPL
+Refresh
+A A
+Soal ke 11
+Sisa Waktu : 46 menit
 Bahasa pemrograman python dapat digunakan untuk
 membuat aplikasi mobile dengan menggunakan framework
 yang bernama....
 O Ionic 2
 O Kivy
 O Kotlin
-O React Native
-O Flutter
-
--[end soal]-
-
--[soal]-
-Tes: KK RPL
-
+• React Native
+Flutter
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+4
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.29
+Tes: KK RPL Refresh
+A A
+Soal ke 17
+Sisa Waktu : 45 menit
 Database Management Systems (DBMS) adalah perangkat
 lunak yang digunakan untuk mengelola sebuah basis data.
 Berikut ini yang tidak termasuk DBMS adalah
-O MySQL
-O Apache2
+• MySQL
+• Apache2
 MariaDB
 Oracle
-O SQL Server
--[end soal]-
-
--[soal]-
+• SQL Server
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+14
+15
+16
+18
+19
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.57.01
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 29
+Sisa Waktu : 45 menit
 Yang tidak termasuk ke dalam hierarki Basis Data adalah....
-O File
+• File
 Field
 O Record
-O User
-O Data Agregate
--[end soal]-
-
--[soal]-
+• User
+• Data Agregate
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+4
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.55.43
 Tes : KK RPL
-
+Refresh
+A A
+Soal ke 4
+Sisa Waktu : 46 menit
 Berikut ini adalah pernyataan yang benar kecuali adalah ?
-O <pre> digunakan untuk membuat tulisan ditampilkan sebagaimana yang di buat dalam script code
+<pre> digunakan untuk membuat tulisan ditampilkan
+sebagaimana yang di buat dalam scriot code
 O <b> digunakan untuk membuat tulisan cetak tebal
 O <j> digunakan untuk membuat tulisan cetak miring
-O <u> digunakan untuk membuat urutan dengan point
-O ‹center> digunakan untuk membuat tulisan rata tengah
-
--[end soal]-
-
--[soal]-
+• <u> digunakan untuk membuat urutan dengan point
+‹center> digunakan untuk membuat tulisan rata tengah
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+6
+8
+9
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.37
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 20
+Sisa Waktu : 45 menit
 Sebuah kelas dapat memiliki lebih dari satu method. Contoh
 nyata
 dari suatu method adalah...
 O berjalan
 O hewan
-O Manusia
+Manusia
 O baju
 O kaki
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.38
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 21
+Sisa Waktu : 45 menit
 Basis data terdiri dari beberapa komponen. Yang tidak
 termasuk komponen tersebut adalah ...
-O Perangkat Keras
+Perangkat Keras
 O Perangkat Lunak
-O Jaringan
+• Jaringan
 O Sistem Operas yang digunakan
-O Sistem Pengelola Basis Data
--[end soal]-
-
--[soal]-
+• Sistem Pengelola Basis Data
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Berhasil
+Jawaban Ragu-ragu berhasil diubah
+A
+Soal ke 1
+Sisa Waktu : 46 menit
 Saat ini banyak digunakan perangkat mobile dengan sistem
 operasi Android. Berikut ini yang bukan merupakan layer
 software Android adalah....
-O Application Framework
-O Applications
-O Android Runtime
+Application Framework
+Applications
+• Android Runtime
 O Libraries
-O Unix kernel
-
--[end soal]-
-
--[soal]-
+• Unix kernel
+. Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+9
+10
+13
+15
+16
+18
+19
+20
+22
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.55.54
 Tes: KK RPL Refresh
-
+A A
+Soal ke 6
+Sisa Waktu : 46 menit
 Apabila terdapat sebuah kelas yaitu bunga, maka yang
 merupakan objek adalah...
 merah
 O putih
 O berduri
 O mawar
-O harum
--[end soal]-
-
--[soal]-
+harum
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+16
+17
+18
+19
+20
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.24
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 15
+Sisa Waktu : 45 menit
 Di bawah ini yang tidak sesuai dengan aturan penulisan
 variabel pada java adalah..
 O int nilai_Siswa = 50 ;
 O int panjang = 4 ;
 O int nilai = 9 ;
-O iint 3p = 85 ;
-O int nilaiSiswa = 30 ;
-
--[end soal]-
-
--[soal]-
+int 3p = 85 ;
+• int nilaiSiswa = 30 ;
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.56.17
 Tes : KK RPL Refresh
-
+A A
+Soal ke 12
+Sisa Waktu : 46 menit
 Bentuk penulisan method static yang benar adalah..
-O class static persegiPanjang(
-O static property
-O public int tambah()
-O static int jumlah()
-O static method
--[end soal]-
-
--[soal]-
+• class static persegiPanjang(
+• static property
+• public int tambah()
+static int jumlah()
+• static method
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+4
+5
+6
+8
+9
+10
+13
+4
+15
+16
+18
+19
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+09.55.45
 Tes: KK RPL Refresh
-
+A A
+Soal ke 5
+Sisa Waktu : 46 menit
 Semua yang ingin kita tampilkan dalam halaman website kita
 di akan di muatkan dalam ?
-O <body>
-O <head>
-O <table>
-O <break>
-O <title>
-
--[end soal]-
-
--[soal]-
+‹body>
+• ‹head>
+• ‹table>
+‹break>
+• ‹title>
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+Soal ke LO
 vantu . TU ITICI
 Berikut ini hasil dari pengolahan nilai variabel yang
 menghasilkan nilai akhir 0 adalah..
@@ -1793,86 +5467,228 @@ System.out.printIn(c);
 -
 O public static void main(String[] args){
 int a = 20;
--[end soal]-
-
--[soal]-
+=====================================================
+09.55.38
 Tes : KK RPL Refresh
-
+A A
+Soal ke 2
+Sisa Waktu : 46 menit
 Untuk membuat tampilan gambar atau text rata tengah
 digunakan tag ?
-O <center>
-O <left>
-O <right>
-O <header>
-O <top>
--[end soal]-
-
--[soal]-
+‹center>
+<left>
+O «right>
+O ‹header>
+<top>
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+13
+14
+15
+16
+18
+19
+20
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.22
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 14
+Sisa Waktu : 45 menit
 Sebuah keyword di java yang menandakan bahwa objek,
 method, atau atribut dapat diakses dari kelas lain...
-O public
+public
 O static
-O class
+• class
 O package
-O void
-
--[end soal]-
-
--[soal]-
+( void
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+10
+15
+16
+18
+20
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.43.22
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 19
+Sisa Waktu : 43 menit
 Icon-icon yang berada dipojok kanan atas jendela, secara
 berurutan memiliki fungi sebagai berikut....
-O SEMUA JAWABAN BENAR
-O Minimize, Maximize, Close
-O Maximize, Restore, Close
-O Minimize, Restore, Close
-O Maximize, Restore, Close
-
--[end soal]-
-
--[soal]-
+SEMUA JAWABAN BENAR
+Minimize, Maximize, Close
+Maximize, Restore, Close
+• Minimize, Restore, Close
+Maximize, Restore, Close
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+L3
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+08.43.14
 Tes: INFORMATIKA XI Refresh
-
+A A
+Soal ke 17
+Sisa Waktu : 43 menit
 Untuk menentukan batas atau posisi naskah pada lembar
-kerja, maka pada menu page setup dapat dipilih perintah...
-O Indent
-O Page size
-O Other Pages
-O Margin
-O Spacing
--[end soal]-
-
--[soal]-
+ker)a, maka pada menu page setup dapat dipilih perintah...
+• Indent
+• Page size
+• Other Pages
+Margin
+• Spacing
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+9
+10
+3
+16
+17
+18
+19
+20
+22
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+Hentikan Tes
+=====================================================
+SMK Negeri 1 Rao Selatan
+09.56.19
 Tes: KK RPL
-
+Refresh
+A A
+Soal ke 13
+Sisa Waktu : 45 menit
 Merupakan sistem operasi mobile yang dibuat oleh Andy
 Rubin pada tahun 2005 dan dirilis pada tahun 2007. Sistem
 operas yang dimaksud adalah.
 O ios
 O Windows Phone
-O BlackBerry
-O Android
-O Symbian
--[end soal]-
-
--[soal]-
-Tes: KK RPL
-
+• BlackBerry
+Android
+• Symbian
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+5
+8
+10
+13
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+SMK Negeri: Rao Selatan
+09.55.41
+Tes: KK RPL Refresh
+A A
+Soal ke 3
+Sisa Waktu : 46 menit
 Apakah fungsi dari tag <HTML> dalam format teks?
-O Menandakan adalah web file
-O Menandakan adalah sebuah web server
+• Menandakan adalah web file
+© Menandakan adalah sebuah web server
 Merupakan sebuah hyperlink
 Menandakan file tersebut adalah ekstensi file format html
 Merupakan file website
--[end soal]-
-
--[soal]-
+Soal Sebelumnya
+Ragu-ragu
+Soal Selanjutnya
+Daftar Soal
+8
+10
+3
+14
+15
+16
+18
+19
+20
+22
+24
+25
+26
+27
+28
+29
+30
+Soal yang sudah dijawab akan berwarna Biru.
+=====================================================
+int c :
 C=a%b;
 System.out.println(c);
-O public static void main(String[] args){
+• public static void main(String[] args){
 int a = 18;
 int b = 33;
 boolean c :
@@ -1890,3 +5706,7 @@ boolean b = true;
 boolean c :
 c= aorb;
 System.out.println(!c);
+Soal Sebelumnya
+Ragu-ragu
+Sol Selanjutnya
+Daftar Soal
