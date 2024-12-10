@@ -93,10 +93,9 @@
                     alt="Gambar"
                     class="rounded-lg shadow-md mb-4"
                   />
-                  <h1
-                    class="font-medium mb-2"
-                    x-text="qIndex + 1 + '. ' + question.question"
-                  ></h1>
+                  <div>
+                    <div x-html="qIndex + 1 + '. ' + question.question"></div>
+                  </div>
                   <ul class="space-y-2">
                     <template
                       x-for="(isCorrect, option) in question.options"

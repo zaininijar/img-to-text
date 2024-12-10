@@ -76,11 +76,11 @@
         "question": "Aplikasi hybrid adalah aplikasi yang pengembangannya menggabungkan antara aplikasi native dan aplikasi web mobile. Berikut ini yang bukan kelebihan aplikasi hybrid ialah ....",
         "picture": null,
         "options": {
-            "Sebagian besar aset yang dibutuhkan oleh halaman web disimpan dalam paket aplikasi pada perangkat, bukan pada server": false,
+            "Sebagian besar aset yang dibutuhkan oleh halaman web disimpan dalam paket aplikasi pada perangkat, bukan pada server": true,
             "Memiliki dukungan multi platform yang tidak dimiliki native": false,
             "Memerlukan bantuan framework pengembangan aplikasi mobile berbasis web": false,
             "Memungkinkan pembuatan aplikasi secara online maupun offline": false,
-            "Proses pengembangannya jauh lebih mudah dibandingkan aplikasi native": true
+            "Proses pengembangannya jauh lebih mudah dibandingkan aplikasi native": false
         }
     },
     {
@@ -113,10 +113,10 @@
         "picture": null,
         "options": {
             "01": false,
-            "00": false,
+            "0": true,
             "11": false,
             "0,1": false,
-            "10": true
+            "10": false
         }
     },
     {
@@ -265,13 +265,13 @@
     },
     {
         "category": "KK RPL",
-        "question": "Untuk tulisan 'RIO' tag yang digunakan dalam format teks tersebut adalah?",
+        "question": "Untuk tulisan '<u>RIO</u>' tag yang digunakan dalam format teks tersebut adalah?",
         "picture": null,
         "options": {
-            "<b>": true,
+            "<b>": false,
             "<i>": false,
             "<ul>": false,
-            "<u>": false,
+            "<u>": true,
             "<title>": false
         }
     },
@@ -624,7 +624,7 @@
         }
     },
     {
-        "category": "INFORMATIKA XI",
+        "category": "PJOK XI",
         "question": "Dibawah in kegiatan yang dapat meningkatkan kebugaran jasmani adalah....",
         "picture": null,
         "options": {
@@ -900,10 +900,10 @@
         "question": "Bagaimana cara membuat teks rata kiri kanan?",
         "picture": null,
         "options": {
-            "Ctrl+E": true,
+            "Ctrl+E": false,
             "Ctrl+B": false,
             "Ctrl+R": false,
-            "Ctrl+J": false,
+            "Ctrl+J": true,
             "Ctrl+L": false
         }
     },
@@ -1068,7 +1068,7 @@
         "picture": null,
         "options": {
             "Ctrl + E": false,
-            "Ctrl + 0": false,
+            "Ctrl + O": true,
             "Ctrl + S": false,
             "Ctrl+ N": false,
             "Ctrl+ J": false
@@ -1487,8 +1487,8 @@
         "options": {
             "<pre> digunakan untuk membuat tulisan ditampilkan sebagaimana yang di buat dalam script code": false,
             "<b> digunakan untuk membuat tulisan cetak tebal": false,
-            "<j> digunakan untuk membuat tulisan cetak miring": true,
-            "<u> digunakan untuk membuat urutan dengan point": false,
+            "<i> digunakan untuk membuat tulisan cetak miring": true,
+            "<u> digunakan untuk membuat urutan dengan point": true,
             "<center> digunakan untuk membuat tulisan rata tengah": false
         }
     },
@@ -1616,10 +1616,10 @@
         "question": "Icon-icon yang berada dipojok kanan atas jendela, secara berurutan memiliki fungi sebagai berikut....",
         "picture": null,
         "options": {
-            "SEMUA JAWABAN BENAR": true,
+            "SEMUA JAWABAN BENAR": false,
             "Minimize, Maximize, Close": false,
             "Maximize Restore, Close": false,
-            "Minimize, Restore, Close": false,
+            "Minimize, Restore, Close": true,
             "Maximize, Restore, Close": false
         }
     },
