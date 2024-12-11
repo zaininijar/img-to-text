@@ -101,14 +101,26 @@
                       x-for="(isCorrect, option) in question.options"
                       :key="option"
                     >
-                      <li
-                        class="p-2 rounded-md text-sm"
-                        :class="{
-                                                'bg-green-100 text-green-800': isCorrect,
-                                                'bg-red-100 text-red-800': !isCorrect
-                                            }"
-                        x-text="option"
-                      ></li>
+                      <div>
+                        <li
+                          x-show="(question.optionHtml)"
+                          class="p-2 rounded-md text-sm"
+                          :class="{
+                                  'bg-green-100 text-green-800': isCorrect,
+                                  'bg-red-100 text-red-800': !isCorrect
+                                }"
+                          x-html="option"
+                        ></li>
+                        <li
+                          x-show="(!question.optionHtml || false)"
+                          class="p-2 rounded-md text-sm"
+                          :class="{
+                                  'bg-green-100 text-green-800': isCorrect,
+                                  'bg-red-100 text-red-800': !isCorrect
+                                }"
+                          x-text="option"
+                        ></li>
+                      </div>
                     </template>
                   </ul>
                 </div>

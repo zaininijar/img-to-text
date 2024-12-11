@@ -76,9 +76,9 @@
         "question": "Aplikasi hybrid adalah aplikasi yang pengembangannya menggabungkan antara aplikasi native dan aplikasi web mobile. Berikut ini yang bukan kelebihan aplikasi hybrid ialah ....",
         "picture": null,
         "options": {
-            "Sebagian besar aset yang dibutuhkan oleh halaman web disimpan dalam paket aplikasi pada perangkat, bukan pada server": true,
+            "Sebagian besar aset yang dibutuhkan oleh halaman web disimpan dalam paket aplikasi pada perangkat, bukan pada server": false,
             "Memiliki dukungan multi platform yang tidak dimiliki native": false,
-            "Memerlukan bantuan framework pengembangan aplikasi mobile berbasis web": false,
+            "Memerlukan bantuan framework pengembangan aplikasi mobile berbasis web": true,
             "Memungkinkan pembuatan aplikasi secara online maupun offline": false,
             "Proses pengembangannya jauh lebih mudah dibandingkan aplikasi native": false
         }
@@ -181,12 +181,12 @@
     },
     {
         "category": "KK RPL",
-        "question": "Untuk tulisan 'SYAKILA' tag yang digunakan dalam format teks tersebut adalah?",
+        "question": "Untuk tulisan '<i>SYAKILA</i>' tag yang digunakan dalam format teks tersebut adalah?",
         "picture": null,
         "options": {
-            "<i>": false,
+            "<i>": true,
             "<u>": false,
-            "<b>": true,
+            "<b>": false,
             "<ul>": false,
             "<title>": false
         }
@@ -1446,7 +1446,7 @@
     },
     {
         "category": "KK RPL",
-        "question": "public class JavaApplication1 { public static void main (String[] args) { int a = 9, b = 8; - System.out.printIn(a>b); adalah.. Berdasarkan kode program di atas, nama class pada java",
+        "question": "public class <code>JavaApplication1 { <br/> public static void main (String[] args) {<br/>  int a = 9, b = 8;<br/> System.out.printIn(a>b);<br/> }</code> <br/> Berdasarkan kode program di atas, nama class pada java adalah.. ",
         "picture": null,
         "options": {
             "void main": false,
@@ -1523,7 +1523,7 @@
         "options": {
             "<pre> digunakan untuk membuat tulisan ditampilkan sebagaimana yang di buat dalam script code": false,
             "<b> digunakan untuk membuat tulisan cetak tebal": false,
-            "<i> digunakan untuk membuat tulisan cetak miring": true,
+            "<i> digunakan untuk membuat tulisan cetak miring": false,
             "<u> digunakan untuk membuat urutan dengan point": true,
             "<center> digunakan untuk membuat tulisan rata tengah": false
         }
@@ -1545,9 +1545,9 @@
         "question": "Basis data terdiri dari beberapa komponen. Yang tidak termasuk komponen tersebut adalah ...",
         "picture": null,
         "options": {
-            "Perangkat Keras": true,
+            "Perangkat Keras": false,
             "Perangkat Lunak": false,
-            "Jaringan": false,
+            "Jaringan": true,
             "Sistem Operas yang digunakan": false,
             "Sistem Pengelola Basis Data": false
         }
@@ -1616,11 +1616,13 @@
         "category": "KK RPL",
         "question": "Berikut ini hasil dari pengolahan nilai variabel yang menghasilkan nilai akhir 0 adalah..",
         "picture": null,
+        "optionHtml": true,
         "options": {
-            "public static void main(String[] args) {\nint a = 18;\nint b = 33;\nint x = 15;\nintc=a|b;\nboolean d;\nd=x<a;\nSystem.out.printIn(d);": false,
-            "public static void main(String[] args){\nint a = 18;\nint b = 33;\nint c ;\nc= a%b;\nSystem.out.printin(c);": true,
-            "public static void main(String[] args) {\nint a = 18;\nint b = 33;\nboolean c ;\nc=a <b;\nSystem.out.printIn(c);": false,
-            "public static void main(String[] args){\nint a = 20;": false
+            "<pre>public static void main(String[] args) {\n    int a = 18;\n    int b = 33;\n    int x = 15;\n    int c = a | b;\n    boolean d;\n    d = x < a;\n    System.out.println(d);\n}</pre>": false,
+            "<pre>public static void main(String[] args) {\n    int a = 18;\n    int b = 33;\n    int c;\n    c = a % b;\n    System.out.println(c);\n}</pre>": false,
+            "<pre>public static void main(String[] args) {\n    int a = 18;\n    int b = 33;\n    boolean c;\n    c = a < b;\n    System.out.println(c);\n}</pre>": false,
+            "<pre>public static void main(String[] args) {\n    int a = 20;\n    int b;\n    b = a >> 4;\n    System.out.println(b);\n}</pre>": false,
+            "<pre>public static void main(String[] args) {\n    boolean a = false;\n    boolean b = true;\n    boolean c;\n    c = a or b;\n    System.out.println(!c);\n}</pre>": true
         }
     },
     {
