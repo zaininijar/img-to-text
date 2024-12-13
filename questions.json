@@ -1696,5 +1696,341 @@
             "Menandakan file tersebut adalah ekstensi file format html": false,
             "Merupakan file website": false
         }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Landasan untuk menentukan sumber daya finansial yang diperlukan untuk tingkat kegiatan tertentu dan laba yang bias diharapkan merupakan defenisi dari....",
+        "options": {
+            "Analisi Kelayakan Teknis": false,
+            "Sumber Informasi Pasar": false,
+            "Analisis Peluang Pasar": false,
+            "Analisis Kelayakan Finansial": true,
+            "Uji Coba Pasar": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Untuk menganalisis keberhasilan maupun kegagalan usaha produk, Anda dapat melakukan analisis....",
+        "options": {
+            "Laba": false,
+            "Kelayakan Usaha": false,
+            "Peluang Usaha": false,
+            "Kelayakan Finansial": false,
+            "SWOT": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Yang termasuk jenis Risiko Usaha, kecuali......",
+        "options": {
+            "Risiko Teknis": false,
+            "Risiko Pasar": false,
+            "Risiko Kredit": false,
+            "Risiko Materil": true,
+            "Risiko Psikologis": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Berdasarkan data yang di atas, yang bukan cara untuk menganalisis peluang usaha yang ada disekitar ditunjukkan oleh....",
+        "options": {
+            "4": false,
+            "3": false,
+            "5": true,
+            "1": false,
+            "2": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Perusahaan A menciptakan Drone, akan tetapi harus berhadapan dengan Perusahaan B yang memiliki reputasi sebagai Perusahaan Drone terkemuka di dunia. Apa yang harus dilakukan oleh Perusahaan A.",
+        "options": {
+            "Melakukan kampanye gelap": false,
+            "Membuat perusahaan B membeli barang ke perusahaan A": false,
+            "Menyrah dan gulung tikar": false,
+            "Mengolok-olok drone perusahaan B": false,
+            "Bersaing sekuat tenaga": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Seorang wirausahawan yang akan membuka usaha baru di bidang elektronika selalu membutuhkan informasi tentang pasar karena tujuan dari pemasaran adalah untuk memenuhi permintaan pelanggan. Untuk itu dilakukan analisis....",
+        "options": {
+            "Uji coba pasar": false,
+            "Analisis peluang pasar": true,
+            "Pembelian potensial": false,
+            "Analisi kelayakan": false,
+            "Menentukan jumlah": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Dalam melaksanakan analisis kelayakan teknis, perlu diperhatikan....",
+        "options": {
+            "Keinginan pelanggan": false,
+            "Kekurangan produk": false,
+            "Keinginan pasar": false,
+            "Teknis pembuatan produk barang atau jasa": true,
+            "Keunggulan produk": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Risiko yang terlihat, bisa dihitung, bisa diantisipasi, dan bisa dihindari merupakan Risiko....",
+        "options": {
+            "Risiko Psikologis": false,
+            "Risiko Kredit": false,
+            "Risiko Materil": false,
+            "Risiko Riil": true,
+            "Risiko Teknis": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Ciri-ciri peluang usaha yang baik, kecuali.....",
+        "options": {
+            "Peluang itu Original dan tidak meniru": false,
+            "Ada keyakinan untuk mewujudkannya": false,
+            "Benar-benar sesuai dengan keinginan agar peluang bias bertahan lama": false,
+            "Ada rasa tidak senang dalam menjalankannya": true,
+            "Tingkat visibilitas (kelayakan usaha) benar-benar teruji untuk dilakukan riset dan trial": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Dukungan pemerintah merupakan....dalam mengembangkan usaha.",
+        "options": {
+            "ancaman": false,
+            "Faktor internal": false,
+            "Hambatan": false,
+            "Faktor eksternal": true,
+            "Peluang": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Marno membuka usaha perangkat keras karena sebelumnya sudah pernah bekerja di perusahaan perangkat keras. Kita bisa menyimpulkan bahwa Marno membuka wirausaha atas dasar motivasi, yaitu...",
+        "options": {
+            "Kebosanan menjadi pegawai": false,
+            "Keengganan mendapatkan gaji": false,
+            "Keinginan untuk melakukan sesuatu yang baru": false,
+            "Pengalaman dimasa lampau": true,
+            "Latar belakang pendidikan": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Keunggulan wirausahawan dengan pegawai biasa menurut konferensi ETH Zurich tahun 2014 adalah...",
+        "options": {
+            "Terlalu sombong": false,
+            "Lebih efesien dalam mengambil keputusan": true,
+            "Terlalu banyak mengandai-andai": false,
+            "Pemikiran yang lebih rumit": false,
+            "Lebih cepat dalam menata uang": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Pak budi memilki produk mobil otomatis yang dapat berjalan dengan bahan bakar daun jarak. Pak budi menganggap bahwa mobil buatannya akan menjadi tren dimasa depan, Ketika bahan bakar minyak mulai langka. Perusahaan pak budi merupakan Perusahaan...",
+        "options": {
+            "Berskala": false,
+            "Kecil": false,
+            "Venture capitalist": false,
+            "Besar": false,
+            "Rintisan": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Suatu proses yang mengubah ide (baru) menjadi produk disebut...",
+        "options": {
+            "Konsep": false,
+            "Fakta": false,
+            "Penemuan/Inovasi": true,
+            "Kreatif": false,
+            "Atraksi": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Seorang wirausaha harus mampu menganalisis lingkungan, diantaranya...",
+        "options": {
+            "Mengetahui seluk beluk bisnis dan peluangnya": true,
+            "Mengetahui selera konsumen": true,
+            "Menerapkan teknologi dalam usahanya": true,
+            "Mengetahui perkembangan perekonomian": true,
+            "Melaksanakan manajemen berusaha": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Penyebab utama dari matinya perusahaan perangkat keras adalah...",
+        "options": {
+            "Proses manufaktur yang terhambat": false,
+            "Ketidaksiapan dalam pemasaran": true,
+            "Kekurangan dana": false,
+            "Kalah dengan perusahaan yang lebih besar": false,
+            "Kurangnya minat konsumen": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Kegunaan analisis SWOT, Yaitu.....",
+        "options": {
+            "Menghitung total biaya produksi sehingga tidak terjadi kerugian": false,
+            "Menekan pengeluaran": false,
+            "Melakukan strategi untuk mendapatkan keuntungan yang besar": false,
+            "Menghitung biaya total yang akan dikeluarkan pada saat melakukan proses produksi": false,
+            "Mengetahui langkah-langkah yang perlu dilakukan dalam pengembanganusaha produk barang atau jasa sebagai alat penyusun strategi": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Berikut ini yang merupakan tujuan riset pasar adalah....",
+        "options": {
+            "Menentukan pangsa pasar": false,
+            "Memahami produk produk unggulan": false,
+            "Membentuk pasar barang": false,
+            "Mengumpulkan informasi untuk pengambilan keputusan tentang usaha produk barang atau jasa": true,
+            "Menentukan besarnya dsitribusi": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Kemampuan untuk merancang, membentuk, membuat, atau melakukan sesuatu dengan cara yang baru atau lain disebut....",
+        "options": {
+            "Kreativitas": true,
+            "Analisis": false,
+            "Peluang": false,
+            "Ide": false,
+            "Inovasi": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Seorang wirausahawan yang akan membuka usaha baru selalu membutuhkan informasi tentang pasar karena tujuan dari pemasaran adalah untuk memenuhi permintaan pelanggan meruapak penjelasan dari....",
+        "options": {
+            "Studi Kelayakan Pasar": false,
+            "Analisis Peluang Pasar": true,
+            "Analisi Kelayakan Teknis": false,
+            "Uji Coba Pasar": false,
+            "Sumber Informasi Pasar": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Presentasi hasil pengamatan kegiatan usaha wirausaha umumnya berhubungan dengan faktor-faktor di bawah ini, kecuali...",
+        "options": {
+            "Perjuangan dan pengorbanan wirausaha": false,
+            "Kemauan dan keuletan wirausahawan": false,
+            "Pola piker positif wirausaha": false,
+            "Kejujuran dan keyakinan wirausaha": false,
+            "Tingkat Pendidikan wirausaha itu sendiri": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Suatu sistem pemberian hukuman atau penghargaan/hadiah bagi seorang atau sekelompok orang/lembaga karena kesalahan atau keberhasilan yang ia ciptakan, disebut...",
+        "options": {
+            "Self confidence": false,
+            "Potensi": false,
+            "Sosialisasi": false,
+            "Otosugesti": false,
+            "Punishment and reward": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Informasi, kejadian, kerugian, atau pekerjaan yang terjadi sebagai akibat dari keputusan yang diambil dalam kehidupan sehari-hari disebut....",
+        "options": {
+            "Resiko Usaha": true,
+            "Peluang Usaha": false,
+            "Pangsa Pasar": false,
+            "Peluang Pasar": false,
+            "Wirausaha": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Metode Perencanaan strategis yan digunakan untuk mengevaluasi kekuatan dan kelemahan dalam suatu proyek bisnis/wirausha atau suatu spekulasi bisnis dinamakan....",
+        "options": {
+            "SWOT": true,
+            "Kelayakan Finansial": false,
+            "Laba": false,
+            "Peluang Usaha": false,
+            "Kelayakan Usaha": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Yang bukan merupakan elemen kewirausahaan adalah... <ol><li>1. Mengembangkan rencana usaha</li><li>2. Membentuk bagian sumber daya manusia</li><li>3. Berupaya untuk mendapatkan sumber daya, baik itu berbentuk finansial atau material</li><li>4. Rajin</li><li>5. Menunggu bantuan pemerintah</li></ol>",
+        "optionHtml": true,
+        "options": {
+            "4 dan 5": false,
+            "1,2,3": false,
+            "3 dan 4": false,
+            "1,3,dan 5": true,
+            "1 dan 3": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Pengertian resiko ambigu adalah...",
+        "picture": null,
+        "options": {
+            "Resiko yang dapat diukur secara matematis": false,
+            "Resiko yang tidak dapat dihitung secara matematis": true,
+            "Resiko yang dapat menyebabkan gulung tikar": false,
+            "Resiko yang pasti terjadi": false,
+            "Resiko yang hanya dapat dicapai ketika terjadi blunder": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Pak hadi memiliki 3 ahli rekayasa perangkat keras. Para ahli tersebut ditugaskan untuk mengulas desain produk perusahaanya. Ulasan tersebut dibagi secara hirarkis. Keuntungan yang dimiliki oleh perusahaan pak hadi adalah...",
+        "picture": null,
+        "options": {
+            "Konsep yang sederhana": false,
+            "Proses produksi yang lebih cepat": false,
+            "Harga lebih murah": false,
+            "Proses manufaktur yang efesien": false,
+            "Resiko yang minimal": true
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Masalah yang membedakan antara perusahaan perangkat keras dan perangkat lunak terletak pada...",
+        "picture": null,
+        "options": {
+            "Resiko waktu dan biaya yang dikeluarkan pada perusahaan perangkat keras jauh lebih besar dari pada perangkat lunak": true,
+            "Biaya pengiriman pada barang berbentuk perangkat keras sering terlambat": false,
+            "Barang berbentuk perangkat keras rentan terhadap kerusakan, lain halnya dengan produk perangkat lunak": false,
+            "Perangkat keras sudah ketinggalan zaman, jadi harus diganti model Artuficial intelligence": false,
+            "Barang perangkat keras sulit dipasarkan": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Ada 4 faktor yang mendukung tercapainya keberhasilan penerapan kemampuan inovatif yaitu seperti dibawah ini, kecuali...",
+        "picture": null,
+        "options": {
+            "Organisasi yang tetap datar dan kecil": true,
+            "inovasi dan visi": false,
+            "Orientasi pasar": false,
+            "Proses belajar interaktif": false,
+            "Tenaga ahli": false
+        }
+    },
+    {
+        "category": "PKK RPL",
+        "question": "Pada umumnya, orang yang memiliki kreativitas yang tinggi cenderung memiliki sifat berikut, kecuali....",
+        "picture": null,
+        "options": {
+            "Bekerja keras": false,
+            "Tidak Fleksibel": true,
+            "Cerdas memiliki pemikiran yang tinggi": false,
+            "Berpusat pada diri sendir": false,
+            "Berdedikasi artinya memiliki keteguhan yang tinggi": false
+        }
     }
 ]
